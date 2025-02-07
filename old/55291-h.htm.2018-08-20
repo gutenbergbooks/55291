@@ -1,0 +1,5630 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE html
+   PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd" >
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+  <head>
+    <title>Graft, by Harold Brighouse</title>
+    <meta content="pg2html (binary v0.17)" />
+    <link rel="coverpage" href="images/cover.jpg" />
+    <style type="text/css" xml:space="preserve">
+
+    body { margin:20%; background:#faebd0; text-align:justify}
+    P { text-indent: 1em; margin-top: 1.20em; margin-bottom: 1.20em; }
+    H1,H2,H3,H4,H5,H6 { text-align: center; margin-left: 15%; margin-right: 15%; }
+    hr  { width: 50%; text-align: center;}
+    .foot { margin-left: 5%; margin-right: 5%; text-align: justify; font-size: 80%; font-style: italic;}
+    blockquote {font-size: 97%; font-style: italic; margin-left: 10%; margin-right: 10%;}
+    .mynote    {background-color: #DDE; color: #000; padding: .5em; margin-left: 10%; margin-right: 10%; font-family: sans-serif; font-size: 95%;}
+    .toc       { margin-left: 10%; margin-bottom: .75em;}
+    .toc2      { margin-left: 20%;}
+    .xx-small {font-size: 60%;}
+    .x-small {font-size: 75%;}
+    .small {font-size: 85%;}
+    .large {font-size: 115%;}
+    .x-large {font-size: 130%;}
+    .indent5   { margin-left: 5%;}
+    .indent10  { margin-left: 10%;}
+    .indent15  { margin-left: 15%;}
+    .indent20  { margin-left: 20%;}
+    .indent30  { margin-left: 30%;}
+    .indent40  { margin-left: 40%;}
+    div.fig    { display:block; margin:0 auto; text-align:center; }
+    div.middle { margin-left: 20%; margin-right: 20%; text-align: justify; }
+    .figleft   {float: left; margin-left: 0%; margin-right: 1%;}
+    .figright  {float: right; margin-right: 0%; margin-left: 1%;}
+    .pagenum   {position: absolute; right: 1%; font-size: 0.6em;
+                font-variant: normal; font-style: normal;
+                text-align: right; background-color: #FFFACD;
+                border: 1px solid; padding: 0.3em;text-indent: 0em;}
+    .side      { float: left; font-size: 75%; width: 15%; padding-left: 0.8em;
+               border-left: dashed thin; text-align: left;
+               text-indent: 0; font-weight: bold; font-style: italic;
+               font-weight: bold; color: black; background: #eeeeee; border:        solid 1px;}
+    .head      { float: left; font-size: 90%; width: 98%; padding-left: 0.8em;
+               border-left: dashed thin; text-align: center;
+               text-indent: 0; font-weight: bold; font-style: italic;
+               font-weight: bold; color: black; background: #eeeeee; border:        solid 1px;}
+    p.pfirst, p.noindent {text-indent: 0}
+    span.dropcap         { float: left; margin: 0 0.1em 0 0; line-height: 0.8 }
+    pre        { font-style: italic; font-size: 90%; margin-left: 10%;}
+
+</style>
+  </head>
+  <body>
+
+
+<pre>
+
+The Project Gutenberg EBook of Graft, by Harold Brighouse
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+
+Title: Graft
+       A Comedy in Four Acts
+
+Author: Harold Brighouse
+
+Release Date: August 7, 2017 [EBook #55291]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK GRAFT ***
+
+
+
+
+Produced by David Widger from page images generously
+provided by the Internet Archive
+
+
+
+
+
+
+</pre>
+
+    <div style="height: 8em;">
+      <br /><br /><br /><br /><br /><br /><br /><br />
+    </div>
+    <h1>
+      GRAFT
+    </h1>
+    <h3>
+      A Comedy In Four Acts
+    </h3>
+    <h2>
+      By Harold Brighouse
+    </h2>
+    <h4>
+      London: Samuel French Publisher
+    </h4>
+    <h3>
+      1913
+    </h3>
+    <p>
+      <br /> <br /> <br /> <br /><br /><a name="linkimage-0001" id="linkimage-0001">
+      </a>
+    </p>
+    <div class="fig" style="width:50%;">
+      <img src="images/0001.jpg" alt="0001 " width="100%" /><br />
+    </div>
+    <h5>
+      <a href="images/0001.jpg"><img src="images/enlarge.jpg" alt="" /> </a>
+    </h5>
+    <p>
+      <br /><br /><a name="linkimage-0002" id="linkimage-0002"> </a>
+    </p>
+    <div class="fig" style="width:50%;">
+      <img src="images/0005.jpg" alt="0005 " width="100%" /><br />
+    </div>
+    <h5>
+      <a href="images/0005.jpg"><img src="images/enlarge.jpg" alt="" /> </a>
+    </h5>
+    <p>
+      <br /><br />
+    </p>
+    <hr />
+    <p>
+      <br /><br />
+    </p>
+    <p>
+      <b>CONTENTS</b>
+    </p>
+    <p class="toc">
+      <a href="#link2H_4_0001"> ACT I </a>
+    </p>
+    <p class="toc">
+      <a href="#link2H_4_0002"> ACT II </a>
+    </p>
+    <p class="toc">
+      <a href="#link2H_4_0003"> ACT III </a>
+    </p>
+    <p class="toc">
+      <a href="#link2H_4_0004"> ACT IV. </a>
+    </p>
+    <h1>
+      GRAFT
+    </h1>
+    <p>
+      <br /><br />
+    </p>
+    <hr />
+    <p>
+      <a name="link2H_4_0001" id="link2H_4_0001"> </a>
+    </p>
+    <div style="height: 4em;">
+      <br /><br /><br /><br />
+    </div>
+    <h2>
+      ACT I
+    </h2>
+    <p>
+      <i>A small room on the first floor, awkwardly overcrowded with the entire
+      furniture of a cottage, a pile of which is stacked in the left corner and
+      covered with a sheet; the plain iron bed is right, the window coming
+      between its foot and the pile of furniture; table centre; three plain
+      upright chairs and one wicker armchair before the fire; fireplace left;
+      opposite it right a kitchen dresser well stocked with crockery; pans and
+      kettle about the fireplace. For all the uncomfortable crowding the room is
+      bright and well kept. Door right. It is 7 p.m. on a September evening, and
+      the approach of dusk is noticed gradually.</i>
+    </p>
+    <p>
+      <i>Jim Pilling, a gardener, has finished tea and sits in his shirt-sleeves
+      before the débris of the meal facing spectator lighting a briar pipe. Jim
+      is thirty, clean looking, dressed in his rough working clothes without
+      coat or his combined collar and "dicky" and red tie, which hangs with the
+      coat behind the door. Sally Pilling is transferring the last of the table
+      utensils to a tray which she puts on the bed; then removing the white
+      cloth and shaking crumbs into the fire; a red cloth is underneath. Sally
+      is of the pale complexion usual to a country girl living in a town; she
+      dresses neatly and has an apron on; Dick, a thin boy of eight, in a blue
+      sailor suit, gets off his chair at the table.</i>
+    </p>
+    <p>
+      <br /><br /><a name="linkimage-0003" id="linkimage-0003"> </a>
+    </p>
+    <div class="fig" style="width:50%;">
+      <img src="images/0091.jpg" alt="0091 " width="100%" /><br />
+    </div>
+    <h5>
+      <a href="images/0091.jpg"><img src="images/enlarge.jpg" alt="" /> </a>
+    </h5>
+    <p>
+      <b>Dick</b>. Can I go out and play now, mother?
+    </p>
+    <p>
+      (<i>Jim rises and crosses l. with chair.</i>)
+    </p>
+    <p>
+      <b>Sally</b>. Yes. (<i>She crosses to door and takes down from a hook his sailor
+      hat.</i>) Here's your hat. (<i>Dick comes to her; she secures it on his
+      head with an elastic band.</i>) Don't go far from the door, Dick. I'll
+      shout you when it's bedtime.
+    </p>
+    <p>
+      <b>Jim</b>. And don't get playing in the road&mdash;keep on the footpath.
+    </p>
+    <p>
+      <b>Dick</b>. Yes, dad. (<i>He runs out as Sally opens: the door.</i>)
+    </p>
+    <p>
+      <b>Sally</b>. Don't get run over now.
+    </p>
+    <p>
+      <b>Jim</b>. The young <i>'</i>un misses the country. (<i>Sits in armchair above
+      fire.</i>)
+    </p>
+    <p>
+      <b>Sally</b> (<i>closing door</i>). We all do that, Jim.
+    </p>
+    <p>
+      <b>Jim</b>. Aye. Streets are no sort of playground for a growing child. Did you
+      get out while he was at school this afternoon?
+    </p>
+    <p>
+      <b>Sally</b> (<i>gathering up tea-things</i>). Oh, yes. There's not the cleaning
+      to do in a single room to keep me in it all day.
+    </p>
+    <p>
+      <b>Jim</b>. No; better for you to get out a bit.
+    </p>
+    <p>
+      <b>Sally</b> (<i>dully</i>). It's no pleasure walking in the streets.
+    </p>
+    <p>
+      <b>Jim</b>. Not when there's shops to look at?
+    </p>
+    <p>
+      <b>Sally</b>. You can get tired of shops. (<i>Tea-things on tray.</i>)
+    </p>
+    <p>
+      <b>Jim</b>. You're no true woman.
+    </p>
+    <p>
+      <b>Sally</b>. I'm no town's woman. (<i>Crosses to Jim.</i>) I miss the flowers
+      and the green. I'm pining for the country, Jim.
+    </p>
+    <p>
+      <b>Jim</b>. And I'm same way, only I do get the smell of the earth in Mr.
+      Vining's garden and it's not so bad for me.
+    </p>
+    <p>
+      <b>Sally</b> (<i>wistfully standing above his chair</i>). I'd dearly love to see
+      that garden, Jim.
+    </p>
+    <p>
+      <b>Jim</b>. I know you would; but they're that strict about the Polygon. No
+      getting in unless you've business.
+    </p>
+    <p>
+      <b>Sally</b>. It does seem hard when there's not a park nor so much as a blade of
+      grass in the whole blessed town except the Polygon. (<i>Puts tray on bed.</i>)
+    </p>
+    <p>
+      <b>Jim</b>. The old days were the best, Sally, on the estate where we were born.
+    </p>
+    <p>
+      <b>Sally</b>. We didn't know it, either, till Sir Charles began to sack his men.
+    </p>
+    <p>
+      <b>Jim</b>. No; many a time I've grumbled at the work there and the pay. It's a
+      judgment on me.
+    </p>
+    <p>
+      <b>Sally</b>. You weren't sacked for grumbling. (<i>Shaking cloth in fire.</i>)
+    </p>
+    <p>
+      <b>Jim</b> (<i>bitterly</i>). No. I was sacked because Sir Charles lost so much
+      money on the turf he couldn't keep six gardeners any longer&mdash;and me
+      the one to go because we'd only our Dick and t'others had more childer.
+    </p>
+    <p>
+      <b>Sally</b> (<i>mildly surprised at his tone</i>). Gentlemen will have their
+      sport, Jim. It might be worse. You dropped lucky into a job. (<i>Folds
+      cloth and puts in dresser drawer.</i>)
+    </p>
+    <p>
+      <b>Jim</b>. Aye, the job's all right, and Mr. Vining's a good gentleman to work
+      for&mdash;pay's better than the country an' all, though I can't get stuff
+      to thrive in Mr. Vining's garden as I'd wish. (<i>Rises.</i>) Town air
+      kills 'em. Yes, we'd do all right, Sally, if (<i>looking round as if caged</i>)&mdash;if
+      there was room to live. That's what we want&mdash;room to live. We've our
+      sticks for a proper house eating their heads off in yon corner (<i>indicating
+      the pile</i>), and I've wages enough to pay rent for a house and no one
+      'ull take it from me. There's not a house to let in all Carrington, nor
+      like to be but what there's plenty waiting for it before our turn come,
+      and we've waited three years now.
+    </p>
+    <p>
+      <b>Sally</b> (<i>consoling him</i>). Never mind, Jim. We've got our privacy.
+      We've a room to ourselves.
+    </p>
+    <p>
+      (<i>She crosses to cupboard, gets work out and puts on table.</i>)
+    </p>
+    <p>
+      <b>Jim</b> (<i>hotly</i>). A room! One room! (<i>Cooling.</i>) Aye, but you're
+      right. Let's be thankful for small mercies. (<i>Sits.</i>) I mind it
+      looked like we shouldn't even find a room when we came seeking. But it's
+      hard to live decent in here, and it's harder on Dick than us. Eat and
+      sleep an all in one room's not a Christian way of life.
+    </p>
+    <p>
+      (<i>A knock at the door. Sally opens it. Walter Montgomery stands without.
+      He is a curate, twenty-eight years old, athletic in build, clean-shaven,
+      with a bright manner and a strong jaw.</i>)
+    </p>
+    <p>
+      <b>Walter</b>. May I come in? Good evening, Mrs. Pilling.
+    </p>
+    <p>
+      <b>Sally</b>. Surely, sir.
+    </p>
+    <p>
+      (<i>Enter Walter. Sally closes the door, adroitly taking her apron off as
+      she does so and hanging it up. Jim makes for his coat.</i>)
+    </p>
+    <p>
+      <b>Walter</b>. Good evening, Mr. Pilling. (<i>Seeing his objective.</i>) You're
+      all right as you are.
+    </p>
+    <p>
+      <b>Jim</b>. Shirt-sleeves don't seem respectful, sir. Walter (<i>genially</i>)..
+      Rubbish. It's a pity if you can't be cool in your own room.
+    </p>
+    <p>
+      <b>Jim</b> (<i>apologetically</i>). The fire does make it hot in here.
+    </p>
+    <p>
+      <b>Sally</b>. And we must have a fire to boil the kettle, sir.
+    </p>
+    <p>
+      (<i>Walter looks at the closed window, but, having experience, makes no
+      suggestion. Jim knocks his pipe out on the fire-bar.</i>)
+    </p>
+    <p>
+      <b>Walter</b> (<i>seeing him, but too late to stop him</i>). Oh, don't do that&mdash;here,
+      try a pipe of mine. (<i>Delving in his coat tails for pouch and offering
+      it.</i>)
+    </p>
+    <p>
+      <b>Jim</b> (<i>shyly</i>). Well, sir&mdash;&mdash;
+    </p>
+    <p>
+      <b>Walter</b>. Go on, man. (<i>Jim accepts and fills his pouch; Sally dusts a
+      chair with the corner of the table cloth.</i>) Now you know that chair
+      didn't need dusting, Mrs. Pilling. (<i>He sits.</i>) Well, how's the
+      garden, Mr. Pilling?
+    </p>
+    <p>
+      <b>Jim</b>. Oh, nicely, sir, nicely.
+    </p>
+    <p>
+      <b>Walter</b>. Yes. So I thought when I had a look at it over the hedge. (<i>Turning
+      to Sally.</i>) I live next door to Mr. Vining, you know, Mrs. Pilling.
+    </p>
+    <p>
+      <b>Sally</b>. Oh, but he can't get the garden to suit him, sir. (<i>Sits R. of
+      table.</i>)
+    </p>
+    <p>
+      <b>Walter</b>. Oh! How's that?
+    </p>
+    <p>
+      <b>Jim</b>. Thanks. (<i>Returning pouch. Walter fills a pipe and lights up.</i>)
+      This air's ruination to a garden, sir.
+    </p>
+    <p>
+      <b>Walter</b>. You put up a jolly good fight against it, then. My father's garden
+      looks pretty mean compared with yours.
+    </p>
+    <p>
+      <b>Jim</b> (<i>shyly</i>). Well, sir, you see, your father will try and look
+      after his himself.
+    </p>
+    <p>
+      <b>Walter</b>. Yes. He's awfully attached to his garden.
+    </p>
+    <p>
+      <b>Jim</b> (<i>with a touch of patronage</i>). And he doesn't do it badly&mdash;for
+      an amateur, as you might say, but&mdash;well, he makes mistakes.
+    </p>
+    <p>
+      <b>Sally</b> (<i>protestingly</i>). Jim!
+    </p>
+    <p>
+      <b>Walter</b>. Oh, that's all right, Mrs. Pilling. Dick keeping well?
+    </p>
+    <p>
+      <b>Sally</b> (<i>formally</i>). Oh, yes, thank you, sir.
+    </p>
+    <p>
+      <b>Walter</b>. I saw him outside as I came in. I fancied the little chap looked
+      pale.
+    </p>
+    <p>
+      <b>Jim</b> (<i>gravely</i>). He does look pale.
+    </p>
+    <p>
+      <b>Walter</b>. Anything the matter?
+    </p>
+    <p>
+      <b>Jim</b>. No, sir, no... only this.
+    </p>
+    <p>
+      <b>Walter</b> (<i>vaguely</i>). This?
+    </p>
+    <p>
+      <b>Jim</b>. This room&mdash;living in one room and nothing but streets to run
+      about in.
+    </p>
+    <p>
+      <b>Sally</b>. You can't keep a child inside, sir. 'Tisn't natural. The streets if
+      it's fine and the stairs when it's wet out.
+    </p>
+    <p>
+      <b>Walter</b>. None too safe, Mrs. Pilling, either of 'em.
+    </p>
+    <p>
+      <b>Sally</b>. But what are you to do?
+    </p>
+    <p>
+      <b>Walter</b> (<i>hopelessly</i>). Nothing, I suppose.
+    </p>
+    <p>
+      <b>Jim</b>. Folks can't thrive cramped up the way we are. If garden stuff won't
+      go in the air, it can't be good for humans.
+    </p>
+    <p>
+      (<i>A knock at the door. Without waiting for Sally, who starts towards
+      door, Stephen Verity enters. He is fifty, iron grey, with a good deal of
+      iron in his composition, though just now concerned more with the velvet
+      glove than the mailed fist. A selfmade man, he is cynical, domineering,
+      dryly humorous at times, an ugly customer if crossed, with a strong jaw
+      and tightly closed lips. Dressed in morning coat and grey trousers with
+      very square toed boots, turned down collar, black tie. His coat is good
+      solid broadcloth, but the cut is palpably local.</i>)
+    </p>
+    <p>
+      <b>Stephen</b> (<i>off</i>). Are ye in, Pilling? (<i>He enters and sees Walter.
+      Sally and Walter rise&mdash;grimacing at Walter.</i>) Oh! (<i>He stops
+      short in doorway.</i>)
+    </p>
+    <p>
+      <b>Jim</b> (<i>with deference nicely regulated some degrees lower than that he
+      showed Walter</i>). Come in, Mr. Verity.
+    </p>
+    <p>
+      <b>Walter</b> (<i>holding out hand</i>). How do you do, Mr. Verity?
+    </p>
+    <p>
+      <b>Ste</b>. (<i>shaking hands and speaking with laboured politeness</i>). How do
+      you do, Mr. Montgomery? (<i>Dropping his hand&mdash;sneeringly.</i>)
+    </p>
+    <p>
+      [<i>He appropriates the wicker chair. Walter sits edgeways on the table.</i>
+    </p>
+    <p>
+      I didn't expect to find you here. What are you doing? Looking after their
+      souls?
+    </p>
+    <p>
+      <b>Walter</b> (<i>pleasantly</i>). I dropped in for a chat and a smoke, before
+      going on to keep my appointment at your house. What are you doing? (<i>Sits
+      l. of table.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. I'm looking after their bodies, only some of them won't see it.
+      Pilling's a tough nut to crack.
+    </p>
+    <p>
+      <b>Walter</b>. Not gathered him in yet?
+    </p>
+    <p>
+      <b>Ste</b>. No, but I shall. He's one of your flock. It takes time to get hold of
+      these fellows who come in from the country, (<i>spitefully</i>) where the
+      squire and the parson spell omnipotence. He'll change his tune yet,
+      though.
+    </p>
+    <p>
+      <b>Jim</b> (<i>shaking his head</i>). I'm not the changing sort.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>confidently</i>). You will be. A year or two more of this room
+      and you'll be ripe for anything.
+    </p>
+    <p>
+      <b>Sally</b> (<i>lifting the tray</i>). We're ripe now for a change from this.
+    </p>
+    <p>
+      <b>Ste</b>. Don't go, Mrs. Pilling.
+    </p>
+    <p>
+      <b>Sally</b>. I can get my turn at the sink for washing up now.
+    </p>
+    <p>
+      <b>Ste</b>. That can wait. I want to ask you something.
+    </p>
+    <p>
+      <b>Sally</b> (<i>replacing the tray</i>). Yes, sir? (<i>Sits r. of table.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. (<i>after brief pause</i>). Well, now, Mrs. Pilling, what would you
+      say we need most in Carrington?
+    </p>
+    <p>
+      <b>Sally</b> (<i>promptly</i>). Fresh air.
+    </p>
+    <p>
+      <b>Ste</b>. You've hit the nail on the head. Trust a woman to be sensible when
+      health's at stake. I've a piece of news for you. There's talk of getting a
+      recreation ground for Carrington.
+    </p>
+    <p>
+      <b>Walter</b> (<i>interested&mdash;sincerely</i>). Indeed! I hadn't heard. It's a
+      most interesting thing.
+    </p>
+    <p>
+      <b>Jim</b>. And about time too. (<i>Sits below fire.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. (<i>sentimentalizing</i>). Yes, you'll be able to take Mrs. Pilling
+      down for a stroll on a summer's evening or a Sunday afternoon and watch
+      little Dick play about on the soft grass breathing the fresh air and
+      fancying yourselves back in the country again. No need to have Dick
+      running about in the streets then.
+    </p>
+    <p>
+      <b>Jim</b> (<i>curtly</i>). When?
+    </p>
+    <p>
+      <b>Ste</b>. Well, nothing's settled yet, of course. I'm bringing it up at the
+      next Council meeting and I've a backing on both sides. Alderman Verity's a
+      power in Carrington, I don't mind telling you.
+    </p>
+    <p>
+      <b>Jim</b>. I don't know about your power, sir. What I'm wondering is how it 'ull
+      strike my boss.
+    </p>
+    <p>
+      <b>Walter</b>. It sounds excellent.
+    </p>
+    <p>
+      <b>Jim</b> (<i>suspiciously</i>). And where might your land be, Mr. Verity?
+    </p>
+    <p>
+      <b>Ste</b>. Ah, that's a secret yet.
+    </p>
+    <p>
+      <b>Jim</b>. Um. Recreation ground two mile away's no use to my lad and you'll not
+      find land nearer.
+    </p>
+    <p>
+      <b>Ste</b>. It'll not be five minutes from your door.
+    </p>
+    <p>
+      (<i>Walter turns interestedly from one to the other.</i>)
+    </p>
+    <p>
+      <b>Jim</b>. Then you'll have to burrow for it or hang it in the air.
+    </p>
+    <p>
+      <b>Ste</b>. No, we shan't. The land we have in view's built on at present.
+    </p>
+    <p>
+      <b>Jim</b>. Lots of good that 'ull do&mdash;turning people out of house and home
+      to make a playing field, when houses are so scarce an' all.
+    </p>
+    <p>
+      <b>Walter</b>. Yes. To my mind it's more housing accommodation that's most urgent
+      here, Mr. Verity.
+    </p>
+    <p>
+      <b>Ste</b>. We'll get neither without we're helped. There'll be a lot of
+      opposition.
+    </p>
+    <p>
+      <b>Walter</b>. Surely not.
+    </p>
+    <p>
+      <b>Ste</b>. Oh, yes, there will. We Progressives can't carry anything in the
+      Council unless there's a big force of public opinion at our backs.
+    </p>
+    <p>
+      <b>Walter</b> (<i>confidently</i>). You won't lack that if you've a practicable
+      plan.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>hotly</i>). Practicable! Nothing ever is practicable to some folk
+      that means spending public money and putting up the rates. They're too
+      shortsighted to see that a healthy town pays best in the end.
+    </p>
+    <p>
+      <b>Walter</b> (<i>reasonably</i>). Still, such things as rates have to be
+      considered, I suppose.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>hotly</i>). Oh, yes. Consider the purses of the ratepayers and
+      consider the health of the people and the danger of little children
+      playing in the street and ask your religion which consideration weighs
+      heaviest.
+    </p>
+    <p>
+      <b>Walter</b> (<i>a little warmly</i>). Really, Mr. Verity, I needn't consult my
+      religion. My common sense is sufficient to put me on your side&mdash;if
+      you really are right in believing there can be two sides to such a
+      question.
+    </p>
+    <p>
+      <b>Ste</b>. Don't you make any doubt about that. There'll be two sides right
+      enough.
+    </p>
+    <p>
+      <b>Walter</b>. Well, can <i>I</i> do anything? Will you accept my help?
+    </p>
+    <p>
+      <b>Ste</b>. Yes, yours&mdash;and yours, Pilling, and every man's who'll say a
+      word for us.
+    </p>
+    <p>
+      (<i>A motor horn heard violently below the window&mdash;a few masculine
+      curses and feminine shrieks&mdash;which Sally echoes as she leaps to
+      window and puts it up.</i>)
+    </p>
+    <p>
+      <b>Sally</b>. Dick's in the street. (<i>She flies across from window and out at
+      door.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. (<i>with the air of a conjuror</i>). There you are! Street accident.
+    </p>
+    <p>
+      (<i>Jim follows Sally, but is met at the door by a very irate taxi-cabman
+      carrying Dick in one hand and by the slack of his trousers, followed by
+      Sally. The Chauffeur is a Cockney, about thirty, clean shaven, with the
+      usual oily pallid complexion&mdash;dark&mdash;with black leather leggings
+      and a bottle green great-coat with red facings. His number is on an
+      enamelled plate, which is reversed.</i>)
+    </p>
+    <p>
+      <b>Jim</b> (<i>with more threat than anxiety</i>). Have you hurt him?
+    </p>
+    <p>
+      <b>Chauffeur</b>. 'Urt? Nah. Aw'm a hexpert droiver, aw am.
+    </p>
+    <p>
+      (<i>He puts Dick on his feet. Dick seeks refuge behind his mother s skirts
+      and pulls at them with one hand, curiously watching the Chauffeur all the
+      time. Pilling takes jug from washstand r. and exit for water.</i>)
+    </p>
+    <p>
+      Pulled up in foive yard. Bet it ain't no bloomin' fault of 'is 'es not
+      'urt.
+    </p>
+    <p>
+      <b>Sally</b> (<i>threateningly</i>). If you'd killed my boy I'd have&mdash;&mdash;
+    </p>
+    <p>
+      <b>Chauff</b>. (<i>interrupting</i>). Cheese it, missus. 'E's only froightened.
+    </p>
+    <p>
+      <b>Dick</b>. I'm not hurt, mother.
+    </p>
+    <p>
+      <b>Chauff</b>. No, bet yer would be if yer got what yer bloomin' well arsked for.
+      Yer came as near to it as bone is to flesh.
+    </p>
+    <p>
+      (<i>Sally sits on stool r, with Dick, examining his bruised knee.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. (<i>stepping forward pompously</i>). Now then, my man&mdash;&mdash;
+    </p>
+    <p>
+      <b>Chauff</b>. Aw'm not yer man. (<i>To Sally.</i>) Nah aw' give yer warning,
+      missus, to look after 'im.
+    </p>
+    <p>
+      (<i>Jim returns with water, which he puts by Sally r. She washes the knee.</i>).
+    </p>
+    <p>
+      <b>Walter</b> (<i>quietly</i>). Isn't it your business to look after the safety
+      of pedestrians?
+    </p>
+    <p>
+      <b>Chauff</b>. (<i>acknowledging the Church by a quieter reply</i>). What roight
+      'ad 'e to-be in the middle of the rowd? Ain't the poivement woide enough
+      for 'im to ply 'opscotch? (<i>He addresses Walter.</i>)
+    </p>
+    <p>
+      <b>Jim</b> (<i>r</i>). Look here, that's my kid, and if you've anything to say
+      you can say it to me.
+    </p>
+    <p>
+      <b>Chauff</b>. Aw've this to sy. Yer tell 'im to keep to the poivements. 'E
+      moight 'ave bin in 'eaven nah if aw wasn't a hexpert droiver. There's more
+      kids to the square foot in this tahn than any place aw've struck. People
+      moike a fair 'obby of it.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>importantly</i>). You'd better be careful what you say. You don't
+      know who you're talking to.
+    </p>
+    <p>
+      <b>Chauff</b>. (<i>with infinite scorn</i>). Fat lot aw care. Yer nothing but a
+      crowd of dead-aloive provincials. Don't suppose yer ever saw a taxi-keb
+      till me and my mate come dahn from London. A 'ackney keb is news to yer in
+      these parts. (<i>Up to Stephen.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. (<i>boiling over</i>). I'm an alderman of this town and if you don't
+      talk to me respectfully I'll have your license cancelled. You're not fit
+      to have one.
+    </p>
+    <p>
+      <b>Chauff</b>. Ho! Blimey, not fit to 'ave a license, ain't aw? Aw've druv a dook
+      in my keb. And yer a tahn councillor, are yer? Yus. Yer bloomin' well look
+      it and aw can't say wuss than that.
+    </p>
+    <p>
+      <b>Ste</b>. I'll pay you out for this. I'll report you to your employer.
+    </p>
+    <p>
+      <b>Chauff</b>. (<i>indignantly</i>). Employer be blowed. Aw'm my own boss. Bought
+      my keb, aw did. Thet's enterprise. Don't know what enterprise means dahn
+      here, do yer?
+    </p>
+    <p>
+      <b>Ste</b>, What's your number? I'll report you to the police. (<i>Goes to window
+      and looks out.</i>)
+    </p>
+    <p>
+      <b>Chauff</b>. Yus, yer do. Aw'll tell yer where 'e is. On the 'Igh Street with a
+      stopwatch in his fat hand, trying to cop me exceedin' the limit, and aw've
+      never druv above ten moile for fear of the kids.
+    </p>
+    <p>
+      (<i>Jim goes up to door.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. I demand to know your number.
+    </p>
+    <p>
+      <b>Chauff</b>. (<i>making sure that it is reversed</i>). Never you moind my
+      number. My name's Walker. Fair fed up with this tahn, aw am. Aw'm used to
+      drivin' gentlemen. Aw druv a bally commercial abart all yesterday and the
+      blighter tipped me tuppence.
+    </p>
+    <p>
+      (<i>Jim indicates door.</i>)
+    </p>
+    <p>
+      Yes. Aw'm going. My keb 'ull carry me to London now (<i>moves a bit
+      towards door</i>), and yer rowds reek of kids. Aw've killed none yet and
+      aw don't want to. Aw reckon 'oss kebs are good enough for Carrington.
+      P'raps they train 'em to step loightly on the kids or else they're funeral
+      'osses in their spare toime and never learn to go faster.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>almost frenzied</i>). You... insolent... Cockney... cad.
+    </p>
+    <p>
+      <b>Chauff</b>. (<i>crossing back to Stephen</i>). Foine language from a tahn
+      alderman with the Church lookin' on an' all. Aw am among the nobs. Abart
+      toime aw cleared when a tahn 'as a bally hobject the loikes of you for an
+      alderman. Aw wouldn't be seen droiv-ing yer not for a quid a moile and
+      disinfectin' free.
+    </p>
+    <p>
+      (<i>Stephen looks pugnacious. Walter steps between them.</i>)
+    </p>
+    <p>
+      <b>Walter</b>. If you're going to London, Mr. Walker&mdash;I think you said
+      Walker&mdash;hadn't you better go?
+    </p>
+    <p>
+      <b>Chauff</b>. (<i>at door</i>). Yus, and aw'll droive quick for once through
+      Carrington and charnce it. The kids 'ad better look aloive. (<i>Looking
+      back at Stephen.</i>) Aw'll tell 'em when aw droive into the old garage in
+      the Westminster Rowd abaht meetin' a real loive alderman. They'll be
+      sending rand from Fleet Street to interview me abaht it.
+    </p>
+    <p>
+      (<i>Exit Chauffeur, leaving door open.</i>)
+    </p>
+    <p>
+      <b>Jim</b> (<i>closing door&mdash;to Walter</i>). I'm sorry you've been spoken to
+      like that in my room, sir. Civil tongues don't cost nothing.
+    </p>
+    <p>
+      <b>Walter</b> (<i>smiling</i>). That's a type of modern progress. The new man,
+      Mr. Pilling.
+    </p>
+    <p>
+      <b>Jim</b>. Then I'd as lief have the old.
+    </p>
+    <p>
+      <b>Ste</b>. That's where you're wrong, Jim Pilling. This fellow's up-to-date.
+      He'd never be content to let his children play in the streets. He'd&mdash;&mdash;
+    </p>
+    <p>
+      <b>Jim</b>. No. He'd drive over them.
+    </p>
+    <p>
+      <b>Dick</b> (<i>who's been clutching Sally's skirts, staring</i>). Boo hoo!
+    </p>
+    <p>
+      (<i>Sally bends down.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. (<i>all ostentatious sympathy</i>). What's to do?
+    </p>
+    <p>
+      <b>Dick</b>. My knee's hurting. (<i>Holding it up.</i>) I falled on it.
+    </p>
+    <p>
+      <b>Sally</b> (<i>examining it</i>). It's only bruised.
+    </p>
+    <p>
+      <b>Jim</b> (<i>looking at the knee</i>). Got any plaster?
+    </p>
+    <p>
+      <b>Sally</b>. I think so. (<i>Opens drawer in the dresser and searches.</i>) I
+      ought to have.
+    </p>
+    <p>
+      <b>Jim</b> (<i>watches her</i>). What's that?
+    </p>
+    <p>
+      <b>Sally</b>. That's no good. Corn plaster. There's Beecher's Pills and Wood's
+      Sarsaperilla and every mortal thing except the one you want.
+    </p>
+    <p>
+      <b>Walter</b> (<i>reprovingly</i>). Patent medicines, Mrs. Pilling. (<i>Back to
+      fire.</i>)
+    </p>
+    <p>
+      (<i>Dick on stool, watching Sally.</i>)
+    </p>
+    <p>
+      <b>Sally</b> (<i>justifying herself</i>). They've all got the Government stamp,
+      sir.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>who has taken out a pocket hook, eyeing Dick with what he thinks
+      is benevolence</i>). I generally have some plaster in my pocket. (<i>But
+      he looks in vain.</i>) No, none there. Sorry, Mrs. Pilling.
+    </p>
+    <p>
+      <b>Sally</b>. I'd better take him to the chemist's. (<i>She gets a purse from the
+      dresser.</i>)
+    </p>
+    <p>
+      <b>Dick</b>. Don't want no chemists. Want my supper.
+    </p>
+    <p>
+      <b>Sally</b>. You'll have your supper when we get back. Come and see the man who
+      lives behind the big red bottles.
+    </p>
+    <p>
+      (<i>Dick consents to go. Exeunt Sally and Dick.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. (<i>triumphantly</i>). Anybody got anything to say against a
+      recreation ground <i>now</i>.
+    </p>
+    <p>
+      <b>Walter</b>. Neither of us ever had, I hope.
+    </p>
+    <p>
+      <b>Ste</b>. You'd a lot to say about the rates.
+    </p>
+    <p>
+      <b>Jim</b>. And I didn't see the use of pulling houses down to make room where
+      houses are scarce.
+    </p>
+    <p>
+      <b>Ste</b>. We shan't pull down many.
+    </p>
+    <p>
+      <b>Jim</b>. It'll be a small ground then. (<i>Sits R. of table.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. (<i>with quiet triumph</i>). About ten acres.
+    </p>
+    <p>
+      <b>Jim</b>. You'll have to pull down streets on streets to find ten acres.
+    </p>
+    <p>
+      <b>Ste</b>. We shall pull down just five houses. (<i>Sits L. of table.</i>) No
+      more and no less.
+    </p>
+    <p>
+      <b>Jim</b>. Five houses!
+    </p>
+    <p>
+      <b>Walter</b> (<i>startled</i>). Five, Mr. Verity?
+    </p>
+    <p>
+      <b>Ste</b>. (<i>with bluster</i>). Yes. Five houses, I said.
+    </p>
+    <p>
+      <b>Walter</b> (<i>puzzled</i>). Then you must be thinking of&mdash;oh, but that's
+      ridiculous.
+    </p>
+    <p>
+      <b>Ste</b>. And why is it ridiculous, Mr. Montgomery?
+    </p>
+    <p>
+      <b>Walter</b>. The Polygon's the only place that applies to.
+    </p>
+    <p>
+      <b>Ste</b>. Well, why shouldn't I be thinking of the Polygon?
+    </p>
+    <p>
+      <b>Walter</b>. Are you?
+    </p>
+    <p>
+      <b>Ste</b>. Yes..
+    </p>
+    <p>
+      <b>Walter</b>. But the Polygon is&mdash;&mdash;
+    </p>
+    <p>
+      <b>Ste</b>. (<i>interrupting</i>). I'll tell you what the Polygon, is.
+    </p>
+    <p>
+      <b>Walter</b> (<i>quietly</i>). It's my home, Mr. Verity.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>with gusto</i>). Yes, it's the home of the leisured and
+      privileged class of Carrington. It's five big houses with a kind of a
+      square of tennis lawn in the middle of them and a great big garden behind
+      each. It's the only apology for a breathing space we have and it's bang in
+      the middle of the town. You've got great gates to it marked "private" and
+      a lodge keeper to watch 'em and see none of the common herd get in to soil
+      your sacred air by breathing it in their vulgar lungs. It's a shame and a
+      scandal for the land to be wasted on you and it's not going to be wasted
+      much longer.
+    </p>
+    <p>
+      <b>Walter</b> (<i>without passion</i>). To the people who live there, it's&mdash;&mdash;-
+    </p>
+    <p>
+      <b>Ste</b>. (<i>interrupting</i>). They're about twenty all told. Who are they to
+      get in the way of the thousands that live crowded up like rabbits outside?
+    </p>
+    <p>
+      <b>Walter</b>. They happen to be able to afford it, Mr. Verity.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>sarcastically</i>). Yes. They're well-to-do, so they've the right
+      to monopolize the air.
+    </p>
+    <p>
+      <b>Walter</b> (<i>mildly</i>). Yes, yes. But you do put things so violently.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>glancing at Jim for approval</i>). I feel 'em violently.
+    </p>
+    <p>
+      <b>Walter</b> (<i>half apologetically</i>). You must remember this is quite a new
+      idea to me, and for the moment it seems iconoclastic, if you don't mind my
+      saying so.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>sneering</i>). Yes. Like all your class, you don't like new
+      ideas. I'll say nothing about your Church, though that don't like new
+      things either.
+    </p>
+    <p>
+      (<i>Jim rises.</i>)
+    </p>
+    <p>
+      <b>Walter</b>. If you'll only give me a moment to think, Mr. Verity.... I'm
+      trying my best to see the matter from your standpoint. Meantime, I don't
+      know that you'll improve things by fulminating against the Church.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>blustering</i>). I shan't do myself any good by truckling to it,
+      either. The Church was here before I was. It was here when Carrington was
+      a little village and it's stood by and let the place grow into one huge
+      slum. If we waited for the Church to give us a lead, we'd wait for all
+      eternity.
+    </p>
+    <p>
+      <b>Walter</b> (<i>smiling</i>). But you're not addressing the Church, you know.
+      You're addressing a young and humble member of it.
+    </p>
+    <p>
+      <b>Ste</b>. You're all tarred with the same brush.
+    </p>
+    <p>
+      <b>Walter</b>. Not so black as our cloth, I hope. Some of us younger men try to
+      be social reformers.
+    </p>
+    <p>
+      <b>Ste</b>. Yes. It's all very pretty and romantic, but when it comes to anything
+      that touches you personally like this does you're as bad as the greediest
+      tithe grabbing pluralist that ever robbed a starving farmer of his&mdash;&mdash;
+    </p>
+    <p>
+      <b>Jim</b> (<i>touching Stephen's arm</i>). Mr. Verity, I'm a man that's slow to
+      anger. But I've this to tell you. Mr. Montgomery's a clergyman and you're
+      saying things to him that aren't proper to be said and that I'll hot have
+      said in my room. (<i>Shrewdly.</i>) And you're not going the right way to
+      get my vote for your recreation ground either. .
+    </p>
+    <p>
+      <b>Ste</b>. (<i>alarmed</i>). I apologize, Pilling. (<i>Rises.</i>)
+    </p>
+    <p>
+      <b>Jim</b> (<i>satisfied</i>). Ah!
+    </p>
+    <p>
+      <b>Ste</b>. (<i>earnestly</i>). It's the wrongs of your class. I think of others,
+      Pilling. I see what the motorman saw&mdash;streets crowded with little
+      children, growing up in the gutter, playing in the dust&mdash;I can't help
+      it. My tongue runs away with me when I think of it all.
+    </p>
+    <p>
+      <b>Walter</b>. Say no more, Mr. Verity. You're probably right about the Polygon.
+      I dare say we are out of place there, but you couldn't expect me to take
+      your view the moment it's sprung on me.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>nodding</i>). I've a way of calling a spade a spade.
+    </p>
+    <p>
+      (<i>A knock at the door. Jim opens it. A Man advances a foot into the
+      room. Behind him is dimly seen a woman, both poorly dressed. The Man has a
+      bundle tied up into a blue quilt on his shoulder; his voice is tired and
+      hopeless.</i>)
+    </p>
+    <p>
+      <b>Man</b>. Have you got any floor space to let in this room, mate?
+    </p>
+    <p>
+      <b>Jim</b>. No. (<i>Trying to close the door. The Man's foot keeps it open.</i>)
+    </p>
+    <p>
+      <b>Man</b>. Don't shut the door in our face. I've got the money to pay for it.
+      I'll give you a week's rent now.
+    </p>
+    <p>
+      <b>Jim</b>. It's no use. I'm not letting.
+    </p>
+    <p>
+      <b>Man</b> (<i>pleading</i>). I'm in work, mate. Start at Bamford's factory o'
+      Monday. A corner's all as we want.
+    </p>
+    <p>
+      <b>Jim</b>. I tell you I've none to let.
+    </p>
+    <p>
+      <b>Man</b>. Don't be so hard on a fellow. I can't get in nowhere.
+    </p>
+    <p>
+      <b>Jim</b>. You'll not get in here.
+    </p>
+    <p>
+      <b>Man</b> (<i>turning dejectedly</i>). Lodging-houses full up and getting late
+      an' all. We've been looking all day.
+    </p>
+    <p>
+      <b>Jim</b> (<i>closes the door</i>). Get three or four of them a week. They find
+      room somewhere in the end.
+    </p>
+    <p>
+      <b>Walter</b>. What did he want? Floor space?
+    </p>
+    <p>
+      (<i>Stephen crosses l.</i>)
+    </p>
+    <p>
+      <b>Jim</b>. Aye. Lots of rooms about here with two or three families in 'em. Some
+      one 'ull take them in if they look long enough.
+    </p>
+    <p>
+      <b>Walter</b>. I know. It's appalling.
+    </p>
+    <p>
+      <b>Ste</b>. And ten acres in the Polygon with only five houses on 'em. (<i>Sits
+      in armchair.</i>)
+    </p>
+    <p>
+      <b>Walter</b>. All the more reason to build houses there and not waste it in
+      playing fields.
+    </p>
+    <p>
+      <b>Ste</b>. Ah! So it is wasted now?
+    </p>
+    <p>
+      <b>Walter</b>. Yes. It's wasted now. I'm going to do my best to help you. (<i>Back
+      to fire standing.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. That's good news, any way.
+    </p>
+    <p>
+      <b>Walter</b>. Don't count on me for much. But what I can do I will. I'm afraid I
+      must go now. I've a call to make before I'm due at your house.
+    </p>
+    <p>
+      <b>Ste</b>. Right. See you later.
+    </p>
+    <p>
+      <b>Walter</b> (<i>to Jim</i>). Say good-night to Mrs. Pilling for me. (<i>Crossing
+      R.</i>)
+    </p>
+    <p>
+      (<i>Jim opens the door as Walter goes out.</i>)
+    </p>
+    <p>
+      Good-night.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>rubbing his hands together</i>). Ah, glad I came. Good thing to
+      rope in young Montgomery.
+    </p>
+    <p>
+      <b>Jim</b> (<i>sourly</i>). Good, is it?
+    </p>
+    <p>
+      <b>Ste</b>. What else do you call it?
+    </p>
+    <p>
+      <b>Jim</b> (<i>aggressively</i>). Look here, Mr. Verity, you've been coming here
+      calling yourself my friend. I knew well enough it was my vote you were
+      after. Bless you, I don't mind. I know what even the real gentry 'ull do
+      to get a man's vote. I've seen Sir Charles himself stand by and watch his
+      wife kiss our Dick at election time. But I've finished with you now.
+      You'll come here no more after this. (<i>Above table l.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. (<i>staggered</i>). But... I don't understand. What have I done? (<i>Rises.</i>)
+    </p>
+    <p>
+      <b>Jim</b>. It's not what you've done. It's what you're wanting to do.
+    </p>
+    <p>
+      <b>Ste</b>. I'm wanting to provide a recreation ground for Dick to play in.
+      Anything wrong in that?
+    </p>
+    <p>
+      <b>Jim</b>. A lot. There's more important things than playing fields.
+    </p>
+    <p>
+      <b>Ste</b>. Oh, you're thinking of Montgomery's idea for houses.
+    </p>
+    <p>
+      <b>Jim</b>. No, I'm not thinking of anybody's ideas. Thinking of ideas leads to
+      mischief. I'm thinking of my bread and butter that you're taking from me.
+    </p>
+    <p>
+      <b>Ste</b>. I?
+    </p>
+    <p>
+      <b>Jim</b>. You know very well where I work.
+    </p>
+    <p>
+      <b>Ste</b>. You're Mr. Vining's gardener, aren't you?
+    </p>
+    <p>
+      <b>Jim</b>. Yes, and Mr. Vining lives in the Polygon. It's likely I'd vote for
+      breaking up the Polygon, isn't it?
+    </p>
+    <p>
+      <b>Ste</b>. But, my dear friend&mdash;&mdash;
+    </p>
+    <p>
+      <b>Jim</b>. I tell you I'm not your friend.
+    </p>
+    <p>
+      <b>Ste</b>. Mr. Vining will have to live somewhere. He won't cease to require a
+      gardener.
+    </p>
+    <p>
+      <b>Jim</b>. Ever hear tell as a bird in the hand whacked two in the bush?
+    </p>
+    <p>
+      <b>Ste</b>. (<i>scornfully</i>). If you're afraid of losing your employment.
+    </p>
+    <p>
+      <b>Jim</b> (<i>with conviction</i>). A working man's always afraid of that. I
+      know what it's like to be out of a job.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>ingratiatingly, after a slight pause</i>). Well, now, I tell you
+      what.
+    </p>
+    <p>
+      <b>Jim</b>.. Aye?
+    </p>
+    <p>
+      <b>Ste</b>. We shall want somebody to look after the grass in the recreation
+      ground.
+    </p>
+    <p>
+      <b>Jim</b>. Well?
+    </p>
+    <p>
+      <b>Ste</b>. The Park Committee will want an experienced gardener&mdash;like you.
+    </p>
+    <p>
+      <b>Jim</b>. Are you offering me the job?
+    </p>
+    <p>
+      <b>Ste</b>. Yes.
+    </p>
+    <p>
+      <b>Jim</b>. How do you know you'll be on any Park Committee? You might be fired
+      out of the Council next November.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>with dignity</i>). I'm an alderman, Pilling. Aldermen stay in,
+      they don't get fired.
+    </p>
+    <p>
+      <b>Jim</b>. You're offering me this. Well and good. And what about all the other
+      folk as find work in the Polygon? House servants and such like.
+    </p>
+    <p>
+      <b>Ste</b>. The residents won't cease to want servants where they move to.
+    </p>
+    <p>
+      <b>Jim</b>. And you can flit servants same as furniture, can't you? And servants
+      haven't votes and I have. So you bribe me and they can go to the devil.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>backing in alarm</i>). Mr. Pilling!
+    </p>
+    <p>
+      <b>Jim</b>. Oh, I'm not blind, if I was brought up in the country. They didn't
+      learn me there to vote against my master, either. I take Mr. Vining's
+      money and&mdash;&mdash;
+    </p>
+    <p>
+      <b>Ste</b>. But man alive, how's he to know which way you vote? The ballot's
+      secret.
+    </p>
+    <p>
+      <b>Jim</b> (<i>sceptically</i>). Oh, aye, we've heard that tale before.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>irritated</i>). But it is secret.
+    </p>
+    <p>
+      <b>Jim</b> (<i>unconvinced</i>). That's what they tell you. And if it is, it's
+      not secret from me. I'd know how I voted. And I couldn't hold out my hand
+      for wages from a man when I'd voted opposite to him. I'm not built that
+      way.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>disgustedly</i>). Jim Pilling, I thought you'd more sense.
+    </p>
+    <p>
+      <b>Jim</b>. I've a sense of right and wrong.
+    </p>
+    <p>
+      <b>Ste</b>. Yes, the sense that your employer's always right.
+    </p>
+    <p>
+      <b>Jim</b>. It makes no matter if he's right or wrong. He's still my employer. A
+      man can't vote against the gentleman that gives him bread and butter, and
+      Mr. Vining's a real gentleman, mind you. (<i>With enthusiastic admiration</i>).
+      I never saw him raise his hand to do a thing himself yet.
+    </p>
+    <p>
+      <b>Ste</b>. You're a fool, Pilling.
+    </p>
+    <p>
+      <b>Jim</b>. I'm an honest fool, then.
+    </p>
+    <p>
+      <b>Ste</b>. Look here, if you won't take it from me, will you take it from Mr.
+      Montgomery?
+    </p>
+    <p>
+      <b>Jim</b>. I don't know. He's a young 'un. More like a man than a parson. Coming
+      in here and smoking his pipe like you might do yourself.
+    </p>
+    <p>
+      <b>Ste</b>. But he is a parson&mdash;young Montgomery.
+    </p>
+    <p>
+      <b>Jim</b> (<i>grudgingly</i>). Aye. He's a man I trust.
+    </p>
+    <p>
+      <b>Ste</b>. Then if he tells you, will you vote for turning the Polygon into a
+      playing ground?
+    </p>
+    <p>
+      <b>Jim</b> (<i>confidently</i>). He won't.
+    </p>
+    <p>
+      <b>Ste</b>. But if he does?
+    </p>
+    <p>
+      <b>Jim</b>. I'll see.
+    </p>
+    <p>
+      (<i>Re-enter Sally and Dick.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. Hullo! Patched the little man up?
+    </p>
+    <p>
+      <b>Sally</b>. Yes.
+    </p>
+    <p>
+      (<i>Dick exhibits a black plaster about his knee.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. I'll get out of your way, Mrs. Pilling. I've an appointment to keep
+      at home. Good-night. (<i>Crosses below table to door.</i>)
+    </p>
+    <p>
+      <b>Sally</b>,
+    </p>
+    <p>
+      <b>Jim</b>. Good-night.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>turning at door, patting Dick's head</i>). Goodnight, Dick.
+    </p>
+    <p>
+      (<i>Dick doesn't respond. Exit Stephen.</i>)
+    </p>
+    <p>
+      <b>Sally</b>. Good riddance and all. Now, Dick, you ought to have been in bed
+      long ago. (<i>Takes Dick up to bed.</i>)
+    </p>
+    <p>
+      <b>Dick</b>. Can't I come and watch you wash up?
+    </p>
+    <p>
+      <b>Sally</b>. No, you can't. (<i>She begins to undress him.</i>)
+    </p>
+    <p>
+      <b>Dick</b>. I want my supper.
+    </p>
+    <p>
+      <b>Sally</b>. You can have it in bed.
+    </p>
+    <p>
+      <b>Jim</b>. You don't like Verity, lass?
+    </p>
+    <p>
+      <b>Sally</b>. And never did. What's he want with bothering round week after week?
+      We're not his class.
+    </p>
+    <p>
+      <b>Jim</b>. Vote's what he's after, and it's a marvel to me what they will do for
+      votes.
+    </p>
+    <p>
+      <b>Sally</b>. You'll do yourself no good with him, Jim.
+    </p>
+    <p>
+      <b>Jim</b>. I'm thinking so myself. He's a bit too keen on this recreation
+      ground, Verity is. Been putting himself about something extraordinary. (<i>Crosses
+      to fireplace, taking pipe.</i>) I fancy, you know, there's, something
+      behind all this.
+    </p>
+    <p>
+      (<i>The undressing of Dick advances.</i>)
+    </p>
+    <h3>
+      CURTAIN.
+    </h3>
+    <p>
+      <br /><br />
+    </p>
+    <hr />
+    <p>
+      <a name="link2H_4_0002" id="link2H_4_0002"> </a>
+    </p>
+    <div style="height: 4em;">
+      <br /><br /><br /><br />
+    </div>
+    <h2>
+      ACT II
+    </h2>
+    <p>
+      <i>Stephen Verity's dining-room the same evening. The room has doors right
+      and left. Window with drawn blind, r. Large table centre with chairs.
+      Fireplace left. Solid-looking sideboard back centre. The furniture is
+      solid, old-fashioned, and the atmosphere of the room is one of heavy
+      comfort without ostentation. The room is a small one. No books anywhere.
+      In an armchair before the fire is Stephen Verity. Walter Montgomery faces
+      him in a highbacked chair. Stephen is smoking a large, well coloured
+      briar.</i>
+    </p>
+    <p>
+      <br /><br /><a name="linkimage-0004" id="linkimage-0004"> </a>
+    </p>
+    <div class="fig" style="width:50%;">
+      <img src="images/0092.jpg" alt="0092 " width="100%" /><br />
+    </div>
+    <h5>
+      <a href="images/0092.jpg"><img src="images/enlarge.jpg" alt="" /> </a>
+    </h5>
+    <p>
+      <b>Stephen</b> (<i>removing the pipe</i>). So you think you're good enough to
+      marry my daughter, do you? Walter. I ventured to think so.
+    </p>
+    <p>
+      <b>Ste</b>. Why?
+    </p>
+    <p>
+      <b>Walter</b>. Because I love her, Mr. Verity.
+    </p>
+    <p>
+      <b>Ste</b>. That the only reason?
+    </p>
+    <p>
+      <b>Walter</b>. No.
+    </p>
+    <p>
+      <b>Ste</b>. What are the others?
+    </p>
+    <p>
+      <b>Walter</b>. She loves me.
+    </p>
+    <p>
+      <b>Ste</b>. Did she tell you so?
+    </p>
+    <p>
+      <b>Walter</b>. Yes.
+    </p>
+    <p>
+      <b>Ste</b>. Um! (<i>Slight pause; he smokes reflectively.</i>)
+    </p>
+    <p>
+      That all?
+    </p>
+    <p>
+      <b>Walter</b> (<i>rather startled</i>). All what?
+    </p>
+    <p>
+      <b>Ste</b>. All your reasons.
+    </p>
+    <p>
+      <b>Walter</b>. Yes, I think so.
+    </p>
+    <p>
+      <b>Ste</b>. They're too few.
+    </p>
+    <p>
+      <b>Walter</b>. But&mdash;&mdash;
+    </p>
+    <p>
+      <b>Ste</b>. I'll ask <i>you</i> something.
+    </p>
+    <p>
+      <b>Walter</b>. Yes?
+    </p>
+    <p>
+      <b>Ste</b>. What do you want to get married for?
+    </p>
+    <p>
+      <b>Walter</b>. I'm in love.
+    </p>
+    <p>
+      <b>Ste</b>. That's no reason. You curates, you're all alike&mdash;must be with
+      marrying other folk so much. Infectious, I reckon. Church ought to be
+      scheduled along with the other dangerous trades.
+    </p>
+    <p>
+      <b>Walter</b>. You're laughing at me.
+    </p>
+    <p>
+      <b>Ste</b>. No, I'm not. Marriage isn't a laughing matter, I know.
+    </p>
+    <p>
+      <b>Walter</b>. Won't you give me your answer, Mr. Verity?
+    </p>
+    <p>
+      <b>Ste</b>. Yes. (<i>He rises, knocks at his pipe in the grate, puts it on the
+      mantelpiece and goes himself to the door left. His deliberate movements
+      cause Walter an agony, of which Stephen is quite aware. Stephen opens the
+      door and calls.</i>) Lucy!
+    </p>
+    <p>
+      <b>Lucy</b> (<i>off l.</i>). Yes.
+    </p>
+    <p>
+      <b>Ste</b>. Come in here. (<i>He leaves the door open and goes below door. Enter
+      Lucy Verity. She is twenty-one, pretty, dressed in a skirt and blouse,
+      pointing to a very modest dress allowance. Her hair is plainly dressed.
+      Obviously her father is her master, but she is not without indications of
+      a will of her own. Walter rises as she enters.</i>) Here's a friend of
+      yours. Tells me he wants to marry you.
+    </p>
+    <p>
+      (<i>Lucy crosses r. of table.</i>)
+    </p>
+    <p>
+      <b>Lucy</b> (<i>anxiously</i>). Yes, father.
+    </p>
+    <p>
+      <b>Ste</b>. It's true, then? (<i>Motions her to sit.</i>)
+    </p>
+    <p>
+      <b>Lucy</b>. Yes. (<i>Sits r. of table.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. Well, listen to me. He's a curate. Curates always marry young and
+      have enormous families on no income. (<i>Walter makes an attempt to
+      protest; Stephen proceeds unmoved.</i>) I advise you not to marry him. If
+      he wants a wife, he'll not go begging one for long. There's always crowds
+      of silly girls ready to help a chap to button his collar behind.
+    </p>
+    <p>
+      <b>Walter</b>. Mr. Verity, this isn't a joke to us.
+    </p>
+    <p>
+      <b>Ste</b>. I don't know that losing Lucy 'ud be a joke to me.
+    </p>
+    <p>
+      <b>Walter</b>. I can very well believe that. But it's a thing that's bound to
+      come to you sooner or later.
+    </p>
+    <p>
+      <b>Ste</b>. You're making a mistake. It isn't bound to come at all. My daughter's
+      no need to find a man to keep her. She's a head on her shoulders and sense
+      enough to know when she's well off. Who's going to look after my house if
+      Lucy marries? Tell me that, young man.
+    </p>
+    <p>
+      <b>Walter</b>. I really haven't thought about it, Mr. Verity.
+    </p>
+    <p>
+      <b>Ste</b>. And I'm not going to.
+    </p>
+    <p>
+      <b>Walter</b>. There'd be plenty of time to consider that. We're not proposing to
+      get married to-morrow.
+    </p>
+    <p>
+      <b>Ste</b>. 'Um. Very good of you. Want a long engagement, eh?
+    </p>
+    <p>
+      <b>Walter</b>. Moderately.
+    </p>
+    <p>
+      <b>Ste</b>. And hope I'll be dead and out of your way first? (<i>Sitting behind
+      table c.</i>)
+    </p>
+    <p>
+      <b>Lucy</b>. Father!
+    </p>
+    <p>
+      <b>Ste</b>. You hold your tongue. I'll get you to talk in a minute. (<i>To
+      Walter.</i>) What do you want to wait for?
+    </p>
+    <p>
+      <b>Walter</b>. I'm hoping to get a living before long.
+    </p>
+    <p>
+      <b>Ste</b>. So you <i>have</i> proposed on nothing a year. I thought as much.
+    </p>
+    <p>
+      <b>Walter</b> (<i>with excessive dignity</i>). I'm not without money, sir. I
+      could afford to marry at once.
+    </p>
+    <p>
+      <b>Ste</b>. Could you now? And what might you call being not without money?
+    </p>
+    <p>
+      <b>Walter</b>. I've £150 a year.
+    </p>
+    <p>
+      <b>Ste</b>. You plutocrat! Lucy, do you hear that? He's £150 a year. Nice sort of
+      marrying income, that is. Oh, but perhaps I'm wronging you. What's your
+      father going to do for you when you marry?
+    </p>
+    <p>
+      <b>Walter</b>. I don't know. I haven't asked him.
+    </p>
+    <p>
+      <b>Ste</b>. Well, give a guess at it.
+    </p>
+    <p>
+      <b>Walter</b>. Nothing, probably. He gave me an expensive education.
+    </p>
+    <p>
+      <b>Ste</b>. Then he made a bad investment if it's only worth £150 a year to you
+      to-day. I had no education and I'm worth&mdash;well, never mind. Lucy,
+      tell him what I've been telling you to-night.
+    </p>
+    <p>
+      <b>Lucy</b>. What you told me?
+    </p>
+    <p>
+      <b>Ste</b>. Don't repeat my words like a fool. Go on. You've got your chance of
+      talking now.
+    </p>
+    <p>
+      <b>Lucy</b>. But&mdash;&mdash;
+    </p>
+    <p>
+      <b>Ste</b>. So like a woman to be backward at tongue-wagging, isn't it?
+    </p>
+    <p>
+      <b>Lucy</b> (<i>as if repeating a lesson</i>). You told me that mother left me
+      money which you've, increased by investment till it's now capable of
+      yielding £1,000 a year, and since my twenty-first birthday a week ago the
+      money lies to my credit at the bank.
+    </p>
+    <p>
+      <b>Ste</b>. That's right. Now, my gallant £3 a weeker, what have you got to say
+      to that?
+    </p>
+    <p>
+      <b>Walter</b>. Of course I didn't know.
+    </p>
+    <p>
+      <b>Ste</b>. No. I'll gamble you didn't. You fancied I lived in a small house
+      because I couldn't afford a big 'un. That's a regular Polygon notion.
+      You're used to their way of living up to your income and as much beyond as
+      you've pluck for. When a man's worked as hard as I have he don't spend as
+      fast as he earns. He sticks to what he's got.
+    </p>
+    <p>
+      <b>Walter</b>. I knew you were a successful man, sir.
+    </p>
+    <p>
+      <b>Ste</b>. I've made my way. I began low and I'm no class now, bar what they
+      think of me at the bank&mdash;and that's a fat lot more than they think of
+      any fine Polygon gentlemen. Would you like to know where Lucy's bit comes
+      from?
+    </p>
+    <p>
+      <b>Walter</b>. Really, I'm&mdash;&mdash;
+    </p>
+    <p>
+      <b>Ste</b>. Her grandfather kept the <i>Black Bull</i>. That's where it was made,
+      except what I've added to it. Stinks of beer, that money does. Pubs were a
+      good thing in his time for a landlord that kept off the drink.
+    </p>
+    <p>
+      <b>Walter</b>. I've no doubt it was honestly made.
+    </p>
+    <p>
+      <b>Ste</b>. Aye, ye <i>would</i> think that now you fancy your chance of
+      fingering it. It was made in the way of business same as my own was, and
+      that means the best man won and he hadn't time to stand still and think
+      about honesty. Too busy downing the other fellow for that. And now you've
+      got it. That's me, sir, builder and contractor, and married a publican's
+      daughter. Feeling as keen set on Lucy as you were?
+    </p>
+    <p>
+      <b>Walter</b>. I don't believe very much in artificial class distinctions, Mr.
+      Verity.
+    </p>
+    <p>
+      <b>Ste</b>. Don't you? Not in your business hours, you mean. Not so long as you
+      remember you're a parson.
+    </p>
+    <p>
+      <b>Lucy</b>. Father! (<i>Rises.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. Well, what's the matter with you? Do you want to marry him?
+    </p>
+    <p>
+      <b>Lucy</b>. Yes.
+    </p>
+    <p>
+      <b>Ste</b>. You're a fool. You've £1,000 a year. You're an heiress. He's a
+      pauper..
+    </p>
+    <p>
+      <b>Walter</b>. I'm not a pauper, but I quite agree.
+    </p>
+    <p>
+      From the worldly point of view&mdash;&mdash;
+    </p>
+    <p>
+      <b>Ste</b>. It's the only view I care-about. (<i>To Lucy.</i>) With your money
+      you can look high.
+    </p>
+    <p>
+      <b>Lucy</b>. Thanks, father. When I want to buy a husband, I'll let you know. I'm
+      thinking of marrying one at present.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>immensely surprised</i>). Hullo! Showing spirit, are you? (<i>Rises.</i>)
+    </p>
+    <p>
+      <b>Lucy</b>. It's the first time, if I am.
+    </p>
+    <p>
+      <b>Ste</b>. And it had better be the last, if you don't want to quarrel. I'm not
+      one of these weak-kneed modern fathers that let themselves be browbeaten
+      by their own children. Perhaps you think you'll get him whether I consent
+      or not?
+    </p>
+    <p>
+      <b>Lucy</b>. I hope you will consent. (<i>Pause.</i>),
+    </p>
+    <p>
+      <b>Ste</b>. I'm not fond of curates, Lucy. It's a soft job, and a real man looks
+      for a fighting chance in life.
+    </p>
+    <p>
+      <b>Walter</b>. I get plenty of fighting to do, Mr. Verity.
+    </p>
+    <p>
+      <b>Ste</b>. Who do you fight with?
+    </p>
+    <p>
+      <b>Walter</b>. Evil, in every shape and form.
+    </p>
+    <p>
+      <b>Ste</b>. 'Um, the devil's game for a few rounds yet.
+    </p>
+    <p>
+      <b>Walter</b>. He's an old hand, and if we haven't knocked him out we're
+      weakening his defence.
+    </p>
+    <p>
+      <b>Ste</b>. Well, I'll give you a chance of showing it.
+    </p>
+    <p>
+      <b>Walter</b>. In a good cause, I hope.
+    </p>
+    <p>
+      <b>Ste</b>. The cause is all right. You're a parson. Got the good of the poor at
+      heart and all that sort of thing?
+    </p>
+    <p>
+      <b>Walter</b>. I hope so.
+    </p>
+    <p>
+      <b>Ste</b>. Yes. (<i>Briskly.</i>) Well now, about Lucy.
+    </p>
+    <p>
+      <b>Walter</b>. Is that the fight?
+    </p>
+    <p>
+      <b>Ste</b>. I'm coming to the fight. You say you love her.
+    </p>
+    <p>
+      <b>Walter</b>. I do. (<i>Stephen is between them.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. (<i>to Lucy</i>). You love him?
+    </p>
+    <p>
+      <b>Lucy</b>. Yes. (<i>Lucy r., Stephen c., Walter l.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. (<i>holding up his hands evenly</i>). Quits so far. Income on the
+      male side £150 a year. (<i>Surveys his right hand.</i>) Income on the
+      female side £1,000. (<i>Depressing his left hand as if weighing the
+      incomes in scales.</i>) Hullo! wo! something wrong there. Doesn't balance.
+    </p>
+    <p>
+      <b>Walter</b> (<i>bitterly</i>). Do you think I don't know it?
+    </p>
+    <p>
+      <b>Ste</b>. (<i>dropping his hands</i>). Yes. You've hooked your fish, my boy.
+      But you're a long way off landing her yet.
+    </p>
+    <p>
+      <b>Walter</b>. Tell me what you want me to do.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>curtly</i>). Earn her.
+    </p>
+    <p>
+      <b>Walter</b>. Yes, but how? (<i>Steps forward.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. By fighting. By doing something for the good of the town. There's
+      this proposal to buy up the Polygon.
+    </p>
+    <p>
+      <b>Walter</b> (<i>eagerly</i>). Yes?
+    </p>
+    <p>
+      <b>Ste</b>. Well, now you know what you've to do. You know what Polygon people
+      are and you know what the town needs.
+    </p>
+    <p>
+      <b>Walter</b>. The town needs space and decent houses.
+    </p>
+    <p>
+      <b>Ste</b>. That's what you've to rub into your Polygon set, and you'll not find
+      'em seeing it so easy.
+    </p>
+    <p>
+      <b>Walter</b>. You can't blame them if they don't exactly welcome the idea of
+      turning out and making fresh homes in their old age. It's only natural.
+    </p>
+    <p>
+      <b>Ste</b>. Oh, I'm not afraid of them. They'll not stop us. All you've to do is
+      to make them see they're an obstacle to progress in this town. They're
+      bound to see justice if they are narrow and selfish and too puffed up with
+      pride to know the townspeople and&mdash;&mdash;
+    </p>
+    <p>
+      <b>Walter</b>. And they're my father and my friends, Mr. Verity.
+    </p>
+    <p>
+      <b>Ste</b>. Yes, I knew you only disbelieved in class distinctions during
+      business hours. Scratch the curate and find the hypocrite.
+    </p>
+    <p>
+      <b>Walter</b> (<i>keeping his temper smilingly</i>). As bad as all that?
+    </p>
+    <p>
+      <b>Ste</b>. The moment I attack your class you're up in arms to defend 'em.
+    </p>
+    <p>
+      <b>Walter</b>. No. They take up too much room in the Polygon. I never said they
+      didn't. But they'll not want to go. And surely the whole thing depends on
+      Sir Charles' readiness to sell.
+    </p>
+    <p>
+      <b>Ste</b>. Yes, but a willing Polygon will make a lot of difference, and if you
+      want Lucy as bad as you say, here's your way to help yourself to her.
+    </p>
+    <p>
+      <b>Walter</b>. I don't see what Lucy has to do with it.
+    </p>
+    <p>
+      <b>Ste</b>. Don't you?
+    </p>
+    <p>
+      <b>Walter</b>. Well, do you? The town proposes to buy the Polygon for the people.
+      It's an excellent project and my plain duty is to further it. I shan't
+      fail in my duty merely because of the unpleasant unheaval in the lives of
+      a few people who happen to be dear to me.
+    </p>
+    <p>
+      <b>Ste</b>. Oh! Well, I don't want words, I want deeds. Succeed and I'll think
+      about calling you son-in-law&mdash;if Lucy doesn't change her mind
+      meantime.
+    </p>
+    <p>
+      <b>Walter</b>. I can't see why you insist on making a kind of bribe of Lucy when
+      there's only one course open to me in any case.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>grimly</i>). I'm making sure of things.
+    </p>
+    <p>
+      <b>Lucy</b>. Father, you don't doubt&mdash;&mdash;
+    </p>
+    <p>
+      <b>Ste</b>. I always doubt an untried man. I doubt if he'll have the pluck to
+      face old Vining in the Polygon&mdash;I doubt lots of things. Put it that
+      I'm giving him some Dutch courage to stiffen his back.
+    </p>
+    <p>
+      <b>Walter</b> (<i>desperately</i>). I don't want Dutch courage. Is there any way
+      of convincing you that I mean what I say?
+    </p>
+    <p>
+      <b>Ste</b>. There's going and doing it.
+    </p>
+    <p>
+      <b>Walter</b>. Very well, I will. (<i>Moving as if to go.</i>) Ste. (<i>stopping
+      him</i>). Remember, you're not engaged to Lucy yet.
+    </p>
+    <p>
+      <b>Walter</b>. I understand. (<i>Crosses r.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. That'll do, then. You know what you've to do. Good-night.
+    </p>
+    <p>
+      <b>Walter</b>. Yes. Good-night, Mr. Verity.
+    </p>
+    <p>
+      (<i>Lucy moves towards right door.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. (<i>to Lucy</i>). You stay where you are. Say good-night to him while
+      I've got my eye on you. He can find the front door without your help.
+    </p>
+    <p>
+      (<i>Lucy and Walter shake hands, R.</i>)
+    </p>
+    <p>
+      <b>Walter</b>. Good-night.
+    </p>
+    <p>
+      (<i>Exit Walter, r. A slight pause. Stephen eyes Lucy from head to foot
+      before speaking. Lucy crosses and sits l. of table.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. (<i>before fire, judicially</i>). It strikes me pretty forcibly I've
+      brought a fool into the world. (<i>Sharply.</i>) How long's this been
+      going on behind my back?
+    </p>
+    <p>
+      <b>Lucy</b> (<i>with an air of standing up to him</i>). Nothing's gone on behind
+      your back. I told Walter at once he must speak to you.
+    </p>
+    <p>
+      <b>Ste</b>. Umph! If you'd told me you wanted help to send him about his business
+      there'd have been some sense in it. But you backed him up. You showed,
+      fight. You're getting proud, my girl.
+    </p>
+    <p>
+      <b>Lucy</b>. I've grown up, father.
+    </p>
+    <p>
+      <b>Ste</b>. Grown up, have you? All right. If you fancy you're too old to come to
+      me for advice you can do without.
+    </p>
+    <p>
+      <b>Lucy</b>. You know I want your advice.
+    </p>
+    <p>
+      <b>Ste</b>. So as you can do opposite, eh?
+    </p>
+    <p>
+      <b>Lucy</b>. Oh, that's unjust, father. I never disobeyed you in my life.
+    </p>
+    <p>
+      <b>Ste</b>, And you'd better not begin now, or you and I will fall out. Ha! So
+      you're grown up, are you? Yes, you've been a legal woman for a week. Only
+      I've been a legal man for thirty years and you'll allow I know the world
+      better than you.
+    </p>
+    <p>
+      <b>Lucy</b>. Of course.
+    </p>
+    <p>
+      <b>Ste</b>. Oh, you do agree to that, do you?
+    </p>
+    <p>
+      <b>Lucy</b>. Certainly.
+    </p>
+    <p>
+      <b>Ste</b>. Well, I tell you you'll be throwing yourself away on young
+      Montgomery..(<i>Persuasively.</i>) He's not up to your weight, Lucy.
+      Polygon type, he is. You know, shove all your goods in the shop window.
+      Live in a big house for swank and get it dirt cheap because the
+      neighbourhood's gone down. They're not solid.. Lucy, you and I together
+      could buy up the whole, crowd of swells to-morrow..
+    </p>
+    <p>
+      <b>Lucy</b>. I fell in love with Walter before I knew I'd a penny piece in the
+      world. I don't think my money must make any difference.
+    </p>
+    <p>
+      <b>Ste</b>. Don't be silly. Money makes all differences. We're all born without
+      pockets. It's pockets or no pockets that makes us rich or poor. Yesterday
+      you didn't knew you'd a pocket and the Polygon looked big and young
+      Montgomery, he looked big. I don't blame you. It looked a good thing.
+    </p>
+    <p>
+      <b>Lucy</b>. It looks the same to-day as it did yesterday.
+    </p>
+    <p>
+      <b>Ste</b>. Women are fools over money. I did think <i>you'd</i> more sense. (<i>Dogmatically.</i>)
+      Money should, marry money. (<i>With rising irritation.</i>) It's all my
+      eye to talk of throwing away your money on a penniless curate.
+    </p>
+    <p>
+      <b>Lucy</b> (<i>rises</i>). I'm sorry to disagree. Obedience has its limits. I
+      hope we shan't quarrel, father, but I'm a free woman now and I warn you&mdash;oh,
+      I'm sorry.
+    </p>
+    <p>
+      <b>Ste</b>. Sorry, are you? I'm a hard man, Lucy. I'm a masterful man. I know
+      that. But I'm a soft-hearted fool where you're concerned, or I'd let you
+      marry the curate and suffer the consequences. But I've got ambitions for
+      you if you've none for yourself. (<i>R.d.</i>) When you marry there's two
+      things for it&mdash;money or birth&mdash;and you'll not find either in
+      Polygon. They're a bad imitation of the real thing&mdash;about as near as
+      the shoddy Bamford makes it to honest broadcloth. Not one of them with a
+      handle to his name. (<i>Crosses to Lucy.</i>) If you must get married,
+      I'll find you a husband. Leave it to me. And don't be in such a hurry to
+      leave your old dad if you are a free woman.
+    </p>
+    <p>
+      <b>Lucy</b> (<i>quietly</i>). I'm marrying Walter Montgomery, father; but we're
+      not in any hurry.
+    </p>
+    <p>
+      <b>Ste</b>. Going to be obstinate, are you? All right, We'll see who'll win.
+    </p>
+    <p>
+      <b>Lucy</b>. You've already given a conditional consent.
+    </p>
+    <p>
+      <b>Ste</b>. Don't you worry about that. He may help to keep the Polygon set quiet
+      till I've put the business through.
+    </p>
+    <p>
+      (<i>Puts ink on table from sideboard.</i>)
+    </p>
+    <p>
+      <b>Lucy</b>. You'd use him and then throw him over afterwards. Father, you don't
+      mean that!
+    </p>
+    <p>
+      <b>Ste</b>. What do you know about business? I'd use the devil himself if I
+      thought he'd smooth my way to a bit of money.
+    </p>
+    <p>
+      <b>Lucy</b>. But this isn't money, is it? It's for the town.
+    </p>
+    <p>
+      <b>Ste</b>. Oh, yes, of course, it's the town.
+    </p>
+    <p>
+      <b>Lucy</b>. Then you'd&mdash;&mdash;
+    </p>
+    <p>
+      (<i>Janet, the maid, opens the door right to Stephen's obvious relief.</i>)
+    </p>
+    <p>
+      <b>Janet</b>. Mr. Bamford, Mr. Alcorn.
+    </p>
+    <p>
+      <b>Ste</b>. Ah, that's what I'm waiting for. Don't go beyond call, Lucy. I'll be
+      wanting you soon.
+    </p>
+    <p>
+      (<i>Exit Lucy l.</i>)
+    </p>
+    <p>
+      (<i>Enter r. Bamford and Alcorn.</i>)
+    </p>
+    <p>
+      (<i>Samuel Bamford is a wealthy shoddy manufacturer. He is a bachelor of
+      forty, a bon viveur and a sportsman. His shrewd ruddy face shows above a
+      white four-in-hand scarf, controlled by a horseshoe gold pin. He is well
+      covered with flesh, but not yet as gross as he probably will be in a few
+      years. His clothes are slightly sportsmanlike in cut and he wears spats. A
+      noticeably heavy gold chain crosses his stomach. Nathaniel Alcorn is tall,
+      spare and dark. His face is yellowish, with a drooping moustache. He wears
+      a frock coat, and his prosperity, though evident, is less ostentatious
+      than Bamford's.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. Good-evening, gentlemen. (<i>To Janet.</i>) Send Mr. Smithson up when
+      he comes. No one else. Janet. Yes, sir. (<i>Exit Janet.</i>)
+    </p>
+    <p>
+      <b>Alcorn</b> (<i>briskly</i>). Evening, Verity.
+    </p>
+    <p>
+      (<i>Bamford nods bluffly at Stephen.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. Sit down. Any news?
+    </p>
+    <p>
+      (<i>Stephen sits c. above table, Bamford r. and Alcorn l. of table.</i>)
+    </p>
+    <p>
+      <b>Alcorn</b> (<i>producing letter from his pocket</i>). Yes, my brother's sent
+      this on. (<i>Hands letter to Stephen.</i>) From Sir Charles' agent. He's
+      abroad, Sir Charles.
+    </p>
+    <p>
+      <b>Bamford</b>. Yes, confound him. How dare he be abroad when we want him?
+    </p>
+    <p>
+      (<i>Stephen reads the letter.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. (<i>looking up</i>). Dodging duns. (<i>To Bamford.</i>) You've seen
+      this?
+    </p>
+    <p>
+      <b>Bamford</b> (<i>gloomily</i>). Yes.
+    </p>
+    <p>
+      <b>Alcorn</b> (<i>equally gloomily</i>). It's not encouraging.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>returning the letter to Alcorn</i>). What isn't encouraging?
+    </p>
+    <p>
+      <b>Alcorn</b>. Why, this. (<i>Reading the letter.</i>) "Speaking for myself
+      alone, I consider it extremely improbable that Sir Charles will consent to
+      a sale of the Polygon to your company." (<i>Leaves letter on the table.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. There's nothing to be afraid of there.
+    </p>
+    <p>
+      <b>Alcorn</b>. I don't know so much about that. These land owning fellows know
+      they're no good at business. They leave it to their agents, and if the
+      agent writes like that, you can take it he knows.
+    </p>
+    <p>
+      <b>Ste</b>. He knows all right. Sir Charles isn't a business man, but his agent
+      is. If there's a chance of selling, that agent wants a top price;
+      naturally he writes that way to bluff us into raising our offer.
+    </p>
+    <p>
+      <b>Bamford</b>. You've a head on your shoulders, Verity.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>to Bamford</i>). It all depends on what you told us. If your
+      information's correct, they'll be only too glad to sell.
+    </p>
+    <p>
+      <b>Alcorn</b>. Yes. It's you that told us Sir Charles is in low water.
+    </p>
+    <p>
+      <b>Bamford</b>. He's dropped a pot of money lately. It's a well known fact. I
+      know one bookie that's taken ten thousand off him in the season, and he's
+      not the only one.
+    </p>
+    <p>
+      <b>Alcorn</b> (<i>sanctimoniously</i>). Deplorable wastrel.
+    </p>
+    <p>
+      <b>Ste</b>. Eh? Oh, aye! (<i>Ironically.</i>) Lamentable prodigality. Shocking
+      extravagance, isn't it, Alcorn?
+    </p>
+    <p>
+      But it suits our book. The faster he goes the pace the better for us, so
+      you might as well be decently grateful instead of getting mealy mouthed
+      over it.
+    </p>
+    <p>
+      <b>Bamford</b>. Me and Alcorn were arguing coming along here what's to be done
+      with the land.
+    </p>
+    <p>
+      <b>Alcorn</b>. Aye, but as I told him, the first thing is to get possession of
+      the land.
+    </p>
+    <p>
+      <b>Ste</b>. Now, don't you worry about that, Alcorn. The land's as good as ours
+      at our own price. Sir Charles 'ull jump at it.
+    </p>
+    <p>
+      <b>Bamford</b>. Well, I'm for building on it.
+    </p>
+    <p>
+      <b>Alcorn</b>. And I'm not so sure.
+    </p>
+    <p>
+      <b>Bamford</b>. Of course you're on my side, Verity?
+    </p>
+    <p>
+      <b>Ste</b>. Your side?
+    </p>
+    <p>
+      <b>Bamford</b>. For building.
+    </p>
+    <p>
+      <b>Ste</b>. No.
+    </p>
+    <p>
+      <b>Bamford</b>. What, and you a builder!
+    </p>
+    <p>
+      <b>Ste</b>. I've finished building now. I'm getting old. I've made my money.
+    </p>
+    <p>
+      <b>Alcorn</b>. I'm out for making an open space of it.
+    </p>
+    <p>
+      <b>Bamford</b>. You're a blooming philanthropist.
+    </p>
+    <p>
+      <b>Ste</b>. No, he's not. It's a pity you missed our last meeting. You don't
+      grasp the idea yet. We buy the land from Sir Charles.
+    </p>
+    <p>
+      <b>Bamford</b>. Yes.
+    </p>
+    <p>
+      <b>Ste</b>. Then we create a demand in the town for a recreation ground.
+    </p>
+    <p>
+      <b>Alcorn</b>. And you back it up in the Council.
+    </p>
+    <p>
+      <b>Ste</b>. And Alcorn as borough surveyor approves officially.
+    </p>
+    <p>
+      <b>Alcorn</b>. We force the town to buy from us.
+    </p>
+    <p>
+      <b>Ste</b>. And get a quick return of our capital with a clinking profit.
+    </p>
+    <p>
+      <b>Bamford</b> (<i>obstinately</i>), Well, I thought it was houses. Houses are
+      safe, and you'd easier raise a cry for houses than playing fields.
+    </p>
+    <p>
+      <b>Ste</b>. Depends how you go about it. Work it proper and you could get them
+      yelling like kids for a municipal service of flying machines.
+    </p>
+    <p>
+      (<i>Enter Smithson, r.</i>)
+    </p>
+    <p>
+      <b>Smithson</b>. Good evening, gentlemen all.
+    </p>
+    <p>
+      (<i>Stephen grunts and rises.</i>)
+    </p>
+    <p>
+      <b>Alcorn</b>. } Good evening
+    </p>
+    <p>
+      <b>Bamford</b>. } Good evening
+    </p>
+    <p>
+      (<i>Stephen gives Smithson his chair, and takes the vacant one r. c. of
+      table.</i>)
+    </p>
+    <p>
+      <b>Smiths</b>. Sorry I'm late, but I've been employing my time well. Sowing the
+      seed.
+    </p>
+    <p>
+      <b>Ste</b>. Been getting at the voters?
+    </p>
+    <p>
+      (<i>Smithson sits between Alcorn and Stephen.</i>) Smiths. Yes, one or
+      two.
+    </p>
+    <p>
+      <b>Ste</b>. You've been wasting time. I've collared a man who'll bring in voters
+      by the score.
+    </p>
+    <p>
+      <b>Alcorn</b>. Who might that be, Mr. Verity?
+    </p>
+    <p>
+      <b>Ste</b>. Young Montgomery. The parson lad. For all their talk, the Church
+      still has a big hold on the poorer classes. It'll pay to have that boy on
+      our side. He'll talk to them in the Polygon, too. Bamford. Aye. Good man,
+      that, Verity.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>to Smithson</i>). There's a letter you'd better read.
+    </p>
+    <p>
+      (<i>Smithson reads it.</i>)
+    </p>
+    <p>
+      <b>Bamford</b> (<i>sullenly; emerging from a silent sulk</i>). I thought it was
+      houses.
+    </p>
+    <p>
+      <b>Ste</b>. Well, it isn't. It 'ud take too much capital to cover the Polygon
+      with houses.
+    </p>
+    <p>
+      <b>Bamford</b>. It was houses. You've altered it. I ought to have been told. No
+      one told me.
+    </p>
+    <p>
+      <b>Smiths</b> (<i>looking up from the letter</i>). He'll come round.
+    </p>
+    <p>
+      <b>Ste</b>. Yes.
+    </p>
+    <p>
+      <b>Bamford</b> (<i>taking it personally; indignantly</i>). Who'll come round? I
+      won't come round. Houses it was and houses it's going to be.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>moving Smithson to give Alcorn the letter. Alcorn pockets it.
+      Dryly.</i>) We spoke of Sir Charles.
+    </p>
+    <p>
+      <b>Bamford</b>. Oh!
+    </p>
+    <p>
+      <b>Smiths</b>, (<i>tentatively</i>). I fancy, myself, houses would be a safer
+      battle-cry with the people, Mr. Verity.
+    </p>
+    <p>
+      <b>Ste</b>. Damn the people. Who cares for the people?
+    </p>
+    <p>
+      <b>Alcorn</b> (<i>rising</i>). I really must protest. Such language! (<i>He seems
+      genuinely shocked.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. (<i>impatiently</i>). It's so silly to talk as if the people
+      mattered. Government by the people! Any fool can lead 'em where he wants.
+    </p>
+    <p>
+      <b>Alcorn</b> (<i>sitting</i>). We must consider their feelings a bit. Think of
+      the rates.
+    </p>
+    <p>
+      <b>Ste</b>. Oh, we'll consider their feelings all right. We must make 'em feel
+      what we want 'em to feel.. Then they'll vote for what we want and kid
+      themselves we do it for their sake. That's how to consider their feelings.
+      When I was a lad there was a trout stream ran through Carrington. It's a
+      sewer now, but there were trout in it then and I've caught 'em by tickling
+      their bellies. That's the way to catch voters, Mr. Alcorn. Tickle 'em.
+    </p>
+    <p>
+      <b>Alcorn</b>. Yes, but the trout died. The voter lives to vote next time.
+    </p>
+    <p>
+      <b>Ste</b>. Go on tickling. I'm an old hand and I've never known it fail.
+    </p>
+    <p>
+      <b>Bamford</b>. You're not attending to me. I say houses. Smithson says houses.
+    </p>
+    <p>
+      <b>Smiths</b> (<i>in alarm</i>). Oh, no, I don't. Indeed I don't. I only say
+      houses 'ull bring votes quicker than playing fields.
+    </p>
+    <p>
+      <b>Alcorn</b>. I suppose you couldn't shout houses and make it the other thing
+      afterwards?
+    </p>
+    <p>
+      <b>Smiths</b>. I'm surprised at you, Mr. Alcorn. (<i>Very righteously.</i>) I
+      stand for purity in municipal life.
+    </p>
+    <p>
+      <b>Bamford</b>. Yes. Always be honest with your electors.
+    </p>
+    <p>
+      <b>Ste</b>. Alcorn's got none. He's a permanent official with a certain job, or
+      he'd know better.
+    </p>
+    <p>
+      <b>Bamford</b>. If I provide a quarter of the capital, I've a right&mdash;&mdash;
+    </p>
+    <p>
+      <b>Ste</b>. You've every right, Mr. Bamford, and we shall do nothing without your
+      approval.
+    </p>
+    <p>
+      <b>Bamford</b>. Then I approve houses. As a ratepayer&mdash;
+    </p>
+    <p>
+      <b>Ste</b>. (<i>definitely</i>). Only, if it's houses, I can't go on. (<i>Consternation.</i>)
+    </p>
+    <p>
+      <b>Smiths</b>. (<i>frightened</i>). We can't do without your influence.
+    </p>
+    <p>
+      <b>Bamford</b> (<i>grudgingly</i>). No, we can't do without Verity.
+    </p>
+    <p>
+      <b>Ste</b>. Our share of what 'ull go on the rates is a flea bite. Our profit
+      'ull cover it a hundred times. I don't deny the town needs houses, needs
+      'em badly, only I haven't the capital for houses. My money's tied up and
+      I'm not touching it. The money I'm putting into this isn't my own.
+    </p>
+    <p>
+      (<i>Alcorn writes on a scrap of paper and passes it to Smithson, who
+      reads, nods, and passes it to Stephen.</i>)
+    </p>
+    <p>
+      <b>Bamford</b>. Who's is it, if it's a fair question? Ste. My daughter's. I'll
+      want it back quick. Alcorn. Your daughter's got money, then? Bamford (<i>very
+      interested</i>). Your daughter's? Nice looking girl, your daughter. (<i>Slight
+      pause.</i>)
+    </p>
+    <p>
+      Well, I'm using my own money and&mdash;&mdash;(<i>Irritably.</i>)
+    </p>
+    <p>
+      What's that you're passing round? Another secret from me?
+    </p>
+    <p>
+      <b>Ste</b>. (<i>blandly</i>). No. (<i>Passing him the paper.</i>) Bamford (<i>reading</i>).
+      "Make Bamford Mayor next year." (<i>He looks up at each in turn.</i>) Um.
+      Well. Bamford's willing.
+    </p>
+    <p>
+      <b>Alcorn</b>. I think it's very suitable.
+    </p>
+    <p>
+      <b>Ste</b>. Yes. We'll call it a recreation ground, eh, Mr. Mayor-Elect?
+    </p>
+    <p>
+      <b>Bamford</b>. I'm not a favourite with the psalmsinging set, you know.
+    </p>
+    <p>
+      <b>Alcorn</b>. I've got them in my pocket. They'll be squared all right.
+    </p>
+    <p>
+      <b>Ste</b>. If I say mayor, you'll be mayor. You make a bit on the mayoral
+      allowance, you know. Needn't spend above half of it.
+    </p>
+    <p>
+      <b>Bamford</b>. All right. No need to say more. It's a recreation ground and damn
+      the expense. (<i>The tension passes.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. Right. Got those papers with you, Alcorn? Alcorn. Yes. (<i>Fussily
+      producing and smoothing the typewritten articles of association.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. Your signature's wanted, Bamford. Bamford (<i>examining the paper</i>).
+      Land Development Syndicate, Ltd. Sounds well, anyhow. Hullo! What's this?
+      Registered Offices, London Wall, E.C.
+    </p>
+    <p>
+      <b>Alcorn</b>. My brother's office in London. Bamford. Why?
+    </p>
+    <p>
+      <b>Ste</b>. Wouldn't do to have a local address here. Some busybody 'ud smell it
+      out.
+    </p>
+    <p>
+      <b>Bamford</b>. I see. (<i>Suspiciously.</i>) What does his brother get out of
+      it?
+    </p>
+    <p>
+      <b>Alcorn</b>. Nothing; and he's put down three of his clerks for one share
+      apiece to make up the statutory seven shareholders. Those are their
+      signatures above Smithson's and mine.
+    </p>
+    <p>
+      (<i>Bamford nods.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. (<i>dipping pen</i>). There's a pen.
+    </p>
+    <p>
+      (<i>Bamford signs.</i>)
+    </p>
+    <p>
+      I'll witness. (<i>Calling off l.</i>) Lucy!
+    </p>
+    <p>
+      <b>Bamford</b>. I deliver this as my act and deed.
+    </p>
+    <p>
+      (<i>Stephen signs without sitting. Enter Lucy, l. All rise.</i>)
+    </p>
+    <p>
+      <b>Lucy</b>. Did you call, father?
+    </p>
+    <p>
+      <b>Alcorn</b> (<i>advancing and speaking with the respect due to a capitalist</i>).
+      Good evening, Miss Verity.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>stepping back, and interposing impatiently</i>). Oh, never mind
+      all that; sit down, Lucy. (<i>Pushing her into his vacated chair and
+      pointing to the papers, handing pen.</i>) Write your name there.
+    </p>
+    <p>
+      <b>Lucy</b> (<i>vaguely</i>). My name?
+    </p>
+    <p>
+      <b>Ste</b>. Yes. Can't you hear? See what it is? Lucy. No.
+    </p>
+    <p>
+      (<i>Bamford's eyes are set on Lucy with the air of a butcher appraising a
+      sheep.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. (<i>impatiently</i>). Oh, never mind. It 'ud take a week to make you
+      understand. You've some money lying at the bank. Mine's all tied up. I
+      want yours for a bit, so just sign your name there. (<i>Lucy signs.</i>)
+      Say "I deliver this as my act and deed."
+    </p>
+    <p>
+      <b>Lucy</b>. I deliver this as my act and deed. (<i>To Stephen.</i>) It's your
+      deed really, you know.
+    </p>
+    <p>
+      <b>Ste</b>. I'll witness. (<i>Signs.</i>) Right.
+    </p>
+    <p>
+      <b>Lucy</b> (<i>reading</i>). The Land Development Syndicate, Ltd.
+    </p>
+    <p>
+      (<i>Stephen takes the paper from under her eyes, folds and hands it to
+      Alcorn.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. You'll see to that, now?
+    </p>
+    <p>
+      <b>Alcorn</b>. Yes. You're our partner, Miss Verity. Lucy (<i>standing</i>). But
+      what's it all about?
+    </p>
+    <p>
+      <b>Smiths</b>. That's right, Miss Verity. Sign first and ask afterwards.
+    </p>
+    <p>
+      <b>Bamford</b>. We're buying up the Polygon. Going to make a playing field of it.
+    </p>
+    <p>
+      (<i>Bamford down r.</i>)
+    </p>
+    <p>
+      <b>Lucy</b>. And presenting it to the town?
+    </p>
+    <p>
+      (<i>Stephen alone doesn't look awkward.</i>)
+    </p>
+    <p>
+      <b>Alcorn</b>. Well&mdash;&mdash;
+    </p>
+    <p>
+      <b>Ste</b>. (<i>curtly</i>). Yes, it 'ull come to the town.
+    </p>
+    <p>
+      <b>Lucy</b> (<i>sentimentally</i>). How noble of you!' Oh, thank you! Thank you
+      so much for letting me take a share in this&mdash;&mdash;
+    </p>
+    <p>
+      <b>Ste</b>. (<i>interrupting</i>). Yes; now you go and have your supper. It's
+      getting late.
+    </p>
+    <p>
+      (<i>Exit Lucy, l.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. Well, that concludes the business for tonight, gentlemen. Nothing
+      more to be done till we hear from Sir Charles. (<i>Puts chair back up
+      stage.</i>)
+    </p>
+    <p>
+      <b>Alcorn</b>. No, that's all.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>finally</i>). Good night, then.
+    </p>
+    <p>
+      <b>Alcorn</b>. Good night, Verity. (<i>Crosses r.</i>).
+    </p>
+    <p>
+      <b>Smiths</b>. Good night. (<i>Shakes hands and crosses R.</i>) . ..
+    </p>
+    <p>
+      (<i>Smithson opens the door r. Alcorn follows him, pausing and looking
+      back at Bamford.</i>)
+    </p>
+    <p>
+      <b>Alcorn</b>. Coming, Bamford?
+    </p>
+    <p>
+      <b>Bamford</b>. No, I want a word with Verity.
+    </p>
+    <p>
+      <b>Smiths</b>, (<i>suspiciously</i>). Business, eh, Mr. Bamford?
+    </p>
+    <p>
+      <b>Bamford</b>. Not about the Company. (<i>Glancing involuntarily after Lucy.</i>)
+      Something else.
+    </p>
+    <p>
+      (<i>Exeunt Smithson and Alcorn.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. Well, Bamford? Have anything? I've a better port downstairs than the
+      Polygon toffs can run to.
+    </p>
+    <p>
+      <b>Bamford</b>. No, thanks.
+    </p>
+    <p>
+      (<i>Stephen looks relieved, Bamford sits. Their positions reproduce those
+      of Stephen and Walter at the opening.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. (<i>taking his pipe from the mantelpiece</i>). I'll have a pipe, if
+      you don't mind. Well, what's up with you?
+    </p>
+    <p>
+      <b>Bamford</b> (<i>jerking his thumb towards the left door</i>). It's about her.
+    </p>
+    <p>
+      <b>Ste</b>. Aye? Well, I like a man that comes to the point sharp.
+    </p>
+    <p>
+      <b>Bamford</b>. Perhaps you wouldn't call me a marrying man? (<i>Sitting below
+      fire.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. You've not done it yet that I know of.
+    </p>
+    <p>
+      <b>Bamford</b>. Never too late to mend. I'm a bit struck with that daughter of
+      yours, Verity.
+    </p>
+    <p>
+      <b>Ste</b>. I noticed you were when I mentioned she had money.
+    </p>
+    <p>
+      <b>Bamford</b>. Well, I'm the last man to deny that money's a very important
+      thing in life.
+    </p>
+    <p>
+      <b>Ste</b>. It's a useful thing to have about the house.
+    </p>
+    <p>
+      <b>Bamford</b>. I was thinking we might come to an arrangement.
+    </p>
+    <p>
+      <b>Ste</b>. It's not impossible..
+    </p>
+    <p>
+      <b>Bamford</b>. Eh!
+    </p>
+    <p>
+      <b>Ste</b>. Only she's a bit young.
+    </p>
+    <p>
+      <b>Bamford</b>. Meaning to say I'm a bit old, eh? I'm sound and hearty.
+    </p>
+    <p>
+      <b>Ste</b>. So's t'other fellow, and more her age.
+    </p>
+    <p>
+      <b>Bamford</b> (<i>rising</i>). The other fellow?'
+    </p>
+    <p>
+      <b>Ste</b>. (<i>remaining seated</i>). Aye. You thought you were being smart,
+      didn't you? Seeing a good thing and dashing at it prompt; but you're the
+      second man to come to me to-night over Lucy, for all that.
+    </p>
+    <p>
+      <b>Bamford</b> (<i>anxiously</i>). Is she promised?
+    </p>
+    <p>
+      <b>Ste</b>. No.
+    </p>
+    <p>
+      <b>Bamford</b> (<i>relieved</i>). Ah!
+    </p>
+    <p>
+      <b>Ste</b>. The man that weds my daughter takes a tidy bit of money with her.
+    </p>
+    <p>
+      <b>Bamford</b>. It'll find some more of its own kidney if she brings it to me.
+    </p>
+    <p>
+      <b>Ste</b>. To tell you the truth, Sam, I'm not struck on the idea of losing her
+      at all. But she's got a fancy in her head and it's one I don't cotton to.
+      Best cure might be to put you there instead and be sure of her not making
+      a fool of herself.
+    </p>
+    <p>
+      <b>Bamford</b>. Then I'm not too late. (<i>Sits again.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. You're the best man up to now.
+    </p>
+    <p>
+      <b>Bamford</b>. Well&mdash;&mdash;
+    </p>
+    <p>
+      <b>Ste</b>. See here, Sam. It's like this. That girl can look high. Question is,
+      are you high enough?
+    </p>
+    <p>
+      <b>Bamford</b>. Which way?
+    </p>
+    <p>
+      <b>Ste</b>. Money.
+    </p>
+    <p>
+      <b>Bamford</b>. Depends what you call high.
+    </p>
+    <p>
+      <b>Ste</b>. Yes... (<i>half apologetically.</i>) I've a right to know before I
+      put it to her.
+    </p>
+    <p>
+      <b>Bamford</b> (<i>after slight hesitation</i>). Well, I'll tell you this: you
+      know what my father left?
+    </p>
+    <p>
+      <b>Ste</b>. Yes.
+    </p>
+    <p>
+      <b>Bamford</b>. There's more to-day. (<i>They exchange looks.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. (<i>rising with resolution</i>). That 'ull do. (<i>Opens left door.</i>)
+      Lucy, come back a minute.
+    </p>
+    <p>
+      <b>Bamford</b> (<i>rises in alarm</i>). I'm not what you call a parlour ladies'
+      man.
+    </p>
+    <p>
+      <b>Ste</b>. I'll stand by you.
+    </p>
+    <p>
+      (<i>Enter Lucy.</i>)
+    </p>
+    <p>
+      Now then. (<i>Crosses r.</i>)
+    </p>
+    <p>
+      <b>Lucy</b>. You want me?
+    </p>
+    <p>
+      <b>Ste</b>. (<i>indicating Bamford</i>). He does.
+    </p>
+    <p>
+      <b>Bamford</b> (<i>awkwardly</i>). Yes, I do, Miss Verity. That's just what I do.
+      I want you.
+    </p>
+    <p>
+      (<i>Lucy is puzzled.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. (<i>looking at her</i>). Well?
+    </p>
+    <p>
+      <b>Lucy</b> (<i>turning from one to the other</i>). You want me. I'm here. What
+      do you want me for?
+    </p>
+    <p>
+      <b>Bamford</b> (<i>l.</i>). For better or for worse. (<i>Giggling genially.</i>)
+    </p>
+    <p>
+      <b>Lucy</b> (<i>freezing</i>). I don't understand you.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>roughly</i>). Don't play stupid now. You understand him well
+      enough.
+    </p>
+    <p>
+      <b>Lucy</b>. But&mdash;&mdash; (<i>Looking appealingly at Stephen.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. Here's your chance, my girl. Here's your answer to the other fellow.
+    </p>
+    <p>
+      <b>Lucy</b>. I have given him my answer.
+    </p>
+    <p>
+      <b>Ste</b>. Well, you can give, Mr.. Bamford his and say yes. He's got money.
+    </p>
+    <p>
+      <b>Bamford</b> (<i>eagerly</i>). Yes, I've got money and I spend it. I'll give
+      you the time of your life.
+    </p>
+    <p>
+      <b>Lucy</b>. Don't spoil this evening for me, Mr. Bamford. You've made me so
+      happy, so grateful to you all for letting me help in your charity. I only
+      knew to-night how rich I am. It frightened me&mdash;the thought of so much
+      money. I was afraid of it... of my unworthiness. Until you showed me the
+      way to use it well. I was proud that I... and now... father, this isn't
+      fair of you.
+    </p>
+    <p>
+      <b>Ste</b>. What isn't fair?
+    </p>
+    <p>
+      <b>Lucy</b>. Why didn't you tell Mr. Bamford? (<i>To Bamford.</i>) I'm engaged.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>r.c.</i>). Don't lie. You're not.
+    </p>
+    <p>
+      <b>Lucy</b> (<i>bravely</i>). I choose to consider myself engaged.
+    </p>
+    <p>
+      <b>Ste</b>. He's a pauper. Look here, my girl, you're rebellious to-night. I'm
+      master here. I'm not the sort of fool to let you twist me round your
+      little finger. Don't think because you're twenty-one and got a thousand a
+      year (<i>the sum moves Bamford visibly</i>) that you'll ride rough-shod
+      over me. (<i>More gently.</i>) You've got to be sensible. (<i>Smacks
+      table.</i>) You've got to do what I tell you.
+    </p>
+    <p>
+      <b>Bamford</b>. You shall have your carriage and dress yourself as much as you
+      like; and what's more, marry me and you'll be. Mayoress of Carrington in
+      November.
+    </p>
+    <p>
+      <b>Ste</b>. Wait a minute, Bamford, not so fast.
+    </p>
+    <p>
+      <b>Bamford</b>. What's the matter?
+    </p>
+    <p>
+      <b>Ste</b>. (<i>crossing l.</i>). Engaged, if you like, but no wedding till the
+      Polygon deal's complete. The profits on that are mine.
+    </p>
+    <p>
+      <b>Bamford</b>. Of course they are. I'll hand over your share when we've sold to
+      the town.
+    </p>
+    <p>
+      <b>Lucy</b>. Sold! Profit! I thought&mdash;&mdash;
+    </p>
+    <p>
+      <b>Ste</b>. Never mind what you thought. (<i>Goes up to Lucy.</i>) That wasn't
+      meant for your ears. You'd better go back to the other room now. I'll talk
+      to you after Mr. Bamford's gone. (<i>Indicating her to exit.</i>)
+    </p>
+    <p>
+      <b>Lucy</b>. I hope. Mr. Bamford will remember I'm engaged.
+    </p>
+    <p>
+      <b>Ste</b>. He'll remember you're going to be&mdash;to him. (<i>Crosses down r.
+      above, table.</i>)
+    </p>
+    <p>
+      <b>Lucy</b>. Father, I've obeyed you long enough. I'm twenty-one now, and I'm
+      going to take my own way.
+    </p>
+    <p>
+      <b>Bamford</b> (<i>doubtfully</i>). I don't like the look of this, Verity.
+    </p>
+    <p>
+      <b>Ste</b>. Look of what?
+    </p>
+    <p>
+      <b>Bamford</b>. She's a bit of a Tartar, isn't she?
+    </p>
+    <p>
+      <b>Lucy</b>. That's nothing to what I can do when I'm roused, Mr. Bamford.
+    </p>
+    <p>
+      <b>Ste</b>. Pssh! It's the first time she's broken out like this. She'll be tame
+      enough next time you come.
+    </p>
+    <p>
+      <b>Lucy</b> (<i>viciously</i>). Don't make too sure of that.
+    </p>
+    <p>
+      <b>Ste</b>. I'm not afraid of that. It's a pity if a man can't do as he likes
+      with his own flesh and blood.
+    </p>
+    <p>
+      <b>Bamford</b> (<i>warily</i>). Best sleep on it before you say more, Verity.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>going to Lucy</i>): Yes. Go to bed, Lucy, and say over to
+      yourself, I'm going to marry Mr. Bamford. Then you'll get used to the
+      idea.
+    </p>
+    <p>
+      <b>Lucy</b>. But I'm not.
+    </p>
+    <p>
+      <b>Ste</b>. Aren't you? We'll see.
+    </p>
+    <p>
+      <b>Lucy</b>. Yes, we will. (<i>At exit l.</i>)
+    </p>
+    <h3>
+      CURTAIN.
+    </h3>
+    <p>
+      <br /><br />
+    </p>
+    <hr />
+    <p>
+      <a name="link2H_4_0003" id="link2H_4_0003"> </a>
+    </p>
+    <div style="height: 4em;">
+      <br /><br /><br /><br />
+    </div>
+    <h2>
+      ACT III
+    </h2>
+    <p>
+      <i>Archibald Vining's house in the Polygon the following afternoon. The
+      room is large and lofty with the air of serene mellowness common to old
+      houses. The door is r., behind the large mantelpiece. Behind is a French
+      window, beyond which the-garden is seen. The room is panelled; its
+      incidental trappings suggest occupants hardly able to live up to their
+      surroundings; the furniture is faded; the carpet worn. Walter sits on a
+      chair to the r. of the window against the wall. Down l. is his father
+      Augustus Montgomery at an escritoire. On a large settee placed crosswise
+      l. sit Mrs. Montgomery and Mrs. Vining. Archibald Vining is posed with an
+      elbow on the mantelpiece, looking across at Montgomery. The ladies gaze at
+      him with admiration. Montgomery Senior is sixty, rather bald, weak-faced,
+      futile, dressed in light grey morning coat and trousers. Vining is ruddy,
+      irascible, with white moustache and grey hair, in black morning coat and
+      grey trousers. The women are both rather foolish. Mrs. Montgomery is stout
+      and Mrs. Vining lean, but there is otherwise not much to choose between
+      them in age, which is about fifty, or anything else. Their dress is
+      conventional without being fashionable or expensive. They live next door
+      and Mrs. Montgomery has come in without a hat. The light is of a sunny
+      afternoon and there is no fire. Marjorie Vining, a tall athletic girl,
+      sits by the window c., with a tennis racket, looking, increasingly bored.</i>
+    </p>
+    <p>
+      <br /><br /><a name="linkimage-0005" id="linkimage-0005"> </a>
+    </p>
+    <div class="fig" style="width:50%;">
+      <img src="images/0093.jpg" alt="0093 " width="100%" /><br />
+    </div>
+    <h5>
+      <a href="images/0093.jpg"><img src="images/enlarge.jpg" alt="" /> </a>
+    </h5>
+    <p>
+      <b>Vining</b> (<i>dictating</i>). "Your rumoured intention to sell the Polygon"&mdash;got
+      that, Montgomery?
+    </p>
+    <p>
+      <b>Montgomery</b>. Yes. (<i>Looking up timidly.</i>) Excuse me, Vining, I can't
+      help saying it again, but are you quite sure we form a quorum?
+    </p>
+    <p>
+      <b>Vin</b>. (<i>assertively</i>). Of course we do, my dear fellow. Don't distress
+      yourself.
+    </p>
+    <p>
+      <b>Mont</b>. (<i>desperately</i>). But&mdash;but there are five houses in the
+      Polygon and only two are represented here.
+    </p>
+    <p>
+      <b>Vin</b>. We know the views of the rest.
+    </p>
+    <p>
+      <b>Mrs. Vin</b>. Their views are ours.
+    </p>
+    <p>
+      <b>Vin</b>. Quite so. Allow for unavoidable absentees, and your scruples vanish.
+      Shall I proceed?
+    </p>
+    <p>
+      (<i>Approval from settee. Montgomery bends and writes.</i>)
+    </p>
+    <p>
+      "Dear Sir,&mdash;At an indignation meeting of your tenants in the Polygon&mdash;&mdash;"
+    </p>
+    <p>
+      (<i>Montgomery writes at intervals, when others talk.</i>)
+    </p>
+    <p>
+      <b>Mrs. V</b>. Archibald, have we any right to be indignant with Sir Charles?
+    </p>
+    <p>
+      <b>Vin</b>. We <i>are</i> indignant, aren't we?
+    </p>
+    <p>
+      <b>Mrs. V</b>. Yes. But will Sir Charles quite like us to tell him so?
+    </p>
+    <p>
+      <b>Mont</b>, (<i>pathetically</i>). It's deucedly&mdash;beg pardon&mdash;it's
+      hard to be diplomatic. How would "protest meeting" do?
+    </p>
+    <p>
+      <b>Vin</b>. Too political. Let "indignation" stand. We must show him he's roused
+      the sleeping lion.
+    </p>
+    <p>
+      <b>Mont</b>, (<i>acquiescent</i>). I'll underline it if you like.
+    </p>
+    <p>
+      <b>Vin</b>. No! No! Firmness, my dear Monty, firmness, not ostentation.
+    </p>
+    <p>
+      <b>Mrs. M</b>. (<i>gushingly to Mrs. Vining</i>). What a man of affairs Mr.
+      Vining is!
+    </p>
+    <p>
+      <b>Vin</b>. (<i>filling his chest</i>). I flatter myself I put things through,
+      Mrs. Montgomery. Now, Monty!
+    </p>
+    <p>
+      <b>Mont</b>. (<i>reading</i>). "At the indignation meeting&mdash;um&mdash;held on
+      the&mdash;um&mdash;it was resolved to respectfully address&mdash;&mdash;"
+    </p>
+    <p>
+      <b>Mrs. V</b>. Oh!
+    </p>
+    <p>
+      <b>Vin</b>. (<i>reprovingly</i>). Well, Cecilia?
+    </p>
+    <p>
+      <b>Mont</b>, (<i>puzzled</i>). That's in order, I think.
+    </p>
+    <p>
+      <b>Vin</b>. Quite. Go on.
+    </p>
+    <p>
+      <b>Mrs. V</b>. But, Archibald, to address a split infinitive to a baronet!
+    </p>
+    <p>
+      <b>Vin</b>. I stand corrected. Thanks, Cecilia.
+    </p>
+    <p>
+      <b>Mont</b>. I don't quite see&mdash;&mdash;&mdash;&mdash;&mdash;
+    </p>
+    <p>
+      <b>Vin</b>. (<i>moving him to write</i>). It was resolved respectfully to address&mdash;&mdash;
+    </p>
+    <p>
+      <b>Mont</b>, (<i>correcting and reading</i>). To address a letter to you on the
+      subject of your rumoured intention to sell the Polygon.
+    </p>
+    <p>
+      <b>Vin</b>. Correct, I think? (<i>Approval from the settee.</i>)
+    </p>
+    <p>
+      <b>Mont</b>. (<i>proceeding</i>). It is our hope that should this information be
+      correct, bracket, which we hesitate to believe, bracket, you will
+      reconsider your decision to give over to the hands of the jerry builder
+      the only residences in Carrington habitable by persons of refinement.
+    </p>
+    <p>
+      <b>Vin</b>. Excellent. (<i>Approval from settee. Vining crosses l. to above
+      Montgomery and takes letter; patronisingly.</i>) You write a clerkly hand,
+      Monty. (<i>Picks up pen.</i>) I'll sign as the oldest resident present.
+    </p>
+    <p>
+      (<i>Montgomery swallows a protest, remaining seated, Vining signs, bending
+      over.</i>)
+    </p>
+    <p>
+      What a pity Sir Charles is abroad. We shall be kept waiting for his reply.
+    </p>
+    <p>
+      <b>Mont</b>. You got his address from Dunkerly?
+    </p>
+    <p>
+      <b>Vin</b>. (<i>putting envelope before him</i>). Yes. <i>Hotel Métropole</i>,
+      Monte Carlo.
+    </p>
+    <p>
+      (<i>Montgomery writes and encloses letter. Vining goes to French window
+      and opens it.</i>)
+    </p>
+    <p>
+      I'll have this posted at once. (<i>Calls.</i>) Pilling!
+    </p>
+    <p>
+      (<i>He returns. Montgomery crosses r. and sits above fireplace.</i>)
+    </p>
+    <p>
+      <b>Mont</b>. Ah, well! That's settled..
+    </p>
+    <p>
+      <b>Vin</b>. (<i>sitting at desk</i>). Yes.
+    </p>
+    <p>
+      <b>Mar</b>. (<i>rises</i>). Jolly glad to hear it. I'm fed up. Come out and play
+      tennis, Walter. (<i>Puts chair down c.</i>)
+    </p>
+    <p>
+      <b>Walter</b>. Not this afternoon, Marjorie.
+    </p>
+    <p>
+      <b>Mar</b>. Oh, be a sport.
+    </p>
+    <p>
+      <b>Walter</b>. Some other time.
+    </p>
+    <p>
+      <b>Mar</b>. It's always some other time with you, now. I'm forgetting what you
+      look like in flannels. You'll lose all your form if you don't practice a
+      bit.
+    </p>
+    <p>
+      <b>Walter</b>. I'm afraid I must let it go. (<i>Rises and crosses l.</i>)
+    </p>
+    <p>
+      <b>Mar</b>. It's pure slacking. Don't be so beastly serious, if you are in
+      Orders. Come and be a muscular Christian on the lawn.
+    </p>
+    <p>
+      <b>Walter</b>. Something more serious to-day, Marjorie. Mar. Oh, rot! What's the
+      good of having the courts if you don't use 'em?
+    </p>
+    <p>
+      <b>Mont</b>. They certainly might be used more by you young people.
+    </p>
+    <p>
+      <b>Walter</b>. They might be used by hundreds of people if&mdash;&mdash;
+    </p>
+    <p>
+      <b>Mar</b>. Oh, blow, you're getting on your hobby horse again. I'm going to
+      practice putting if you won't give me a game. You are a rotter.
+    </p>
+    <p>
+      (<i>Exit Marjorie c. to l. Pilling appears c. from l. in his
+      shirt-sleeves.</i>)
+    </p>
+    <p>
+      <b>Vin</b>. (<i>closes desk and crosses up l.c.</i>). Oh, Pilling, just post this
+      letter at once. Are your hands clean?
+    </p>
+    <p>
+      <b>Pilling</b> (<i>inspecting his very black hands</i>). Not very, sir.
+    </p>
+    <p>
+      <b>Vin</b>. Go and wash them and come back for it.
+    </p>
+    <p>
+      <b>Pilling</b>. Yes, sir.
+    </p>
+    <p>
+      (<i>Pilling vanishes to r. Vining crosses to fire.</i>)
+    </p>
+    <p>
+      <b>Mrs. M</b>. I can't understand Sir Charles wanting to sell at all.
+    </p>
+    <p>
+      <b>Mrs. V</b>. No. What would Carrington be without the Polygon?
+    </p>
+    <p>
+      <b>Walter</b> (<i>quietly</i>). I'm not sure that it wouldn't be a good deal
+      better off, Mrs. Vining.
+    </p>
+    <p>
+      (<i>They all stare at him astonished.</i>)
+    </p>
+    <p>
+      <b>Vin</b>. What an extraordinary thing to say. Why, we <i>are</i> Carrington.
+    </p>
+    <p>
+      <b>Mrs. V</b>. We've always lived in the Polygon. We've taken root, Carrington's
+      gone on its way&mdash;&mdash;
+    </p>
+    <p>
+      <b>Vin</b>. A precious bad way, too.
+    </p>
+    <p>
+      <b>Mont</b>. Other times, other manners, Vining.
+    </p>
+    <p>
+      <b>Vin</b>. Carrington has no manners&mdash;but the Polygon has stood aloof.
+      Thank God we leisured people have no connection with the town roughs.
+    </p>
+    <p>
+      <b>Walter</b>. Then how can you say you <i>are</i> Carrington?
+    </p>
+    <p>
+      <b>Vin</b>. We are the best people in Carrington, sir. Do you judge a place by
+      its quality or by the counting of heads?
+    </p>
+    <p>
+      <b>Walter</b>. I wish I could make you see their point of view, Mr. Vining.
+    </p>
+    <p>
+      <b>Vin</b>. (<i>snorting</i>). Their point of view.
+    </p>
+    <p>
+      <b>Walter</b> (<i>quietly</i>). They have one, you know. Before that letter goes
+      to Sir Charles, I'd like to try&mdash;&mdash;
+    </p>
+    <p>
+      <b>Mrs. M. Walter</b>, remember what the Polygon means to all of us.
+    </p>
+    <p>
+      <b>Walter</b>. It's a survival, mother. It's out of date in the midst of a modern
+      manufacturing town.
+    </p>
+    <p>
+      <b>Mont</b>, (<i>pathetically</i>). But&mdash;but, Walter, it means so
+      tremendously much to us all. It may be out of date, but I did hope it was
+      going to last our time.
+    </p>
+    <p>
+      <b>Vin</b>. It's <i>got</i> to last our time. (<i>Sincerely.</i>) I'm not a
+      deeply religious man, but I get reverent when I think of the Polygon.
+    </p>
+    <p>
+      <b>Mrs. M</b>. That's just it. We all love the Polygon.
+    </p>
+    <p>
+      <b>Mrs. V</b>. The five houses.
+    </p>
+    <p>
+      <b>Mont</b>. Chatsworth.
+    </p>
+    <p>
+      <b>Mrs. V</b>. Apsley House.
+    </p>
+    <p>
+      <b>Mrs. M</b>. Marlborough Lodge.
+    </p>
+    <p>
+      <b>Vin</b>. Kenilworth and Abbotsford.
+    </p>
+    <p>
+      <b>Mont</b>. And our gardens.
+    </p>
+    <p>
+      <b>Vin</b>. And the tennis ground in the middle.
+    </p>
+    <p>
+      <b>Walter</b>. Which nobody uses except Marjorie.
+    </p>
+    <p>
+      <b>Mrs. V</b>. Are we to lose it <i>all?</i>
+    </p>
+    <p>
+      <b>Vin</b>. (<i>with appropriate chest expansion</i>). Not if Archibald Vining
+      can prevent it.
+    </p>
+    <p>
+      <b>Walter</b>. You make it very hard for me to go on.
+    </p>
+    <p>
+      <b>Vin</b>. Then don't go on.
+    </p>
+    <p>
+      <b>Walter</b>. (<i>crosses c.</i>). I must. Father, Mr. Vining, you&mdash;all of
+      you&mdash;are wrapped up in the Polygon. You hardly go out of it except to
+      the station. |
+    </p>
+    <p>
+      <b>Mont</b>. There's nothing else in Carrington to go to.
+    </p>
+    <p>
+      <b>Vin</b>. Thank goodness we've no business to take us into those mean streets.
+    </p>
+    <p>
+      <b>Walter</b>. You haven't, Mr. Vining, but I have. I see the other side of the
+      picture, if you don't.
+    </p>
+    <p>
+      <b>Vin</b>. Well, my dear boy, every town has its back stairs.
+    </p>
+    <p>
+      <b>Walter</b> (<i>sits c.</i>). Carrington's all back stairs, and cramped stairs
+      they are. There's no breathing space. What right have we to monopolize the
+      air? We've room to move about&mdash;so much room that you need never go
+      out of the Polygon.
+    </p>
+    <p>
+      <b>Mont</b>. We pay for the privilege, don't we?
+    </p>
+    <p>
+      <b>Walter</b>. Yes, you pay for it in money and they pay for the lack of it in
+      health.
+    </p>
+    <p>
+      <b>Mont</b>. If there's overcrowding it's a matter for the town authorities to
+      deal with.
+    </p>
+    <p>
+      <b>Walter</b>. They want to deal with it. They want the Polygon.
+    </p>
+    <p>
+      <b>Vin</b>. They can't have it. They must know it 'ud be cutting off their nose
+      to spite their face. The Polygon's essential to Carrington.
+    </p>
+    <p>
+      <b>Walter</b>. Why?
+    </p>
+    <p>
+      <b>Vin</b>. It <i>is</i> Carrington. I tell you this, young man, Carrington's
+      last state would be worse than its first if you took us away. We&mdash;we
+      circulate money. We give the place a tone.
+    </p>
+    <p>
+      <b>Walter</b>. It's a tone the place could do without. It could do without your
+      money. We are not Carrington. The factories are the essential Carrington.
+      Mr. Vining, (<i>rising and taking a step to r. c.</i>) let me show you
+      what it's like&mdash;whole families living&mdash;no, not living&mdash;pigging
+      in a single room. Rooms cut up amongst two or three families. All in
+      Carrington, our neighbours in Christian Carrington.
+    </p>
+    <p>
+      <b>Vin</b>. Thanks. I'm not the sort of man to put my head into a noose. I prefer
+      to keep out of infection.
+    </p>
+    <p>
+      <b>Walter</b> (<i>appealingly</i>). Don't send that letter to Sir Charles. Don't
+      try to influence his decision. The workpeople can't move out of the town.
+      They must live near their work. You can move. Dividends can reach you
+      anywhere just as easily.
+    </p>
+    <p>
+      <b>Mrs. V</b>. Move of ourselves! Never!
+    </p>
+    <p>
+      <b>Mrs. M. Walter</b>, you don't understand what you're asking us to do. You're
+      young. You can change easily, because you're young and restless. But when
+      you've lived in a house that's dear to you till it's become part of your
+      life, you can't leave it in your old age.
+    </p>
+    <p>
+      (<i>Walter crosses above settee.</i>)
+    </p>
+    <p>
+      <b>Mont</b>. I can't leave my garden. You know that. No other garden would mean
+      the same to me.
+    </p>
+    <p>
+      <b>Vin</b>. My dear friends, you needn't worry. Carrington would never let us go.
+      Walter's got hold of the wrong end of the stick. We're an institution.
+    </p>
+    <p>
+      <b>Walter</b>. How do you know? Did you ever ask them what they think of us?
+    </p>
+    <p>
+      <b>Vin</b>. I'll ask Pilling. You'll see. (<i>Crosses up c.</i>)
+    </p>
+    <p>
+      <b>Walter</b>. I shouldn't advise you to. I know Pilling's home. He's a wife and
+      child. They all live in one room.
+    </p>
+    <p>
+      <b>Vin</b>. Why, I pay the man twenty-two shillings a week. What does he live
+      like that for?
+    </p>
+    <p>
+      <b>Walter</b>. He's no choice. Pilling 'ull tell you what Carrington thinks of
+      the Polygon.
+    </p>
+    <p>
+      <b>Vin</b>. He's a long time washing his hands. (<i>Goes up to window and looks
+      off r.</i>)
+    </p>
+    <p>
+      <b>Walter</b>. But you're not going to send that letter now.
+    </p>
+    <p>
+      <b>Vin</b>. Certainly we are. (<i>Returns r.c.</i>)
+    </p>
+    <p>
+      <b>Walter</b>. But&mdash;&mdash;
+    </p>
+    <p>
+      <b>Mont</b>. I think we're all agreed on that?
+    </p>
+    <p>
+      <b>Vin</b>. Quite. No stone unturned. That fellow who's coming, what's his name&mdash;you
+      know, Walter&mdash;that alderman&mdash;&mdash;
+    </p>
+    <p>
+      <b>Walter</b>. Verity?
+    </p>
+    <p>
+      <b>Vin</b>. Verity. That's it. We must make sure of the town authorities. A
+      little affability goes a long way with people of that sort.
+    </p>
+    <p>
+      <b>Mrs. V</b>. Yes. He's not the type of man you're accustomed to meet in my
+      drawing-room, Mrs. Montgomery, still&mdash;&mdash;
+    </p>
+    <p>
+      <b>Mont</b>. It's in a good cause, Mrs. Vining.
+    </p>
+    <p>
+      <b>Mrs. M</b>. He's an architect, isn't he?
+    </p>
+    <p>
+      <b>Walter</b>. He's a builder who's his own architect. That's why his houses fall
+      to pieces.
+    </p>
+    <p>
+      <b>Mrs. M</b>. That's what I say. An architect. Almost a professional man.
+    </p>
+    <p>
+      <b>Walter</b>. But you mustn't pin your faith on Verity. He's, the last man&mdash;&mdash;
+    </p>
+    <p>
+      <b>Vin</b>. Walter, as a Churchman, I am always willing to accept your views on
+      religious matters. But when it comes to worldly questions, permit me to
+      have an opinion of my own.
+    </p>
+    <p>
+      (<i>Pilling appears and knocks on the window without advancing into the
+      room.</i>)
+    </p>
+    <p>
+      Oh, Pilling!
+    </p>
+    <p>
+      <b>Pilling</b> (<i>in c.o.</i>). Yes, sir?
+    </p>
+    <p>
+      <b>Vin</b>. Come in.
+    </p>
+    <p>
+      (<i>Pilling advances a foot and stands awkwardly near the window.</i>)
+    </p>
+    <p>
+      <b>Pilling</b>. Letter ready, sir?
+    </p>
+    <p>
+      <b>Vin</b>. (<i>absently</i>). Yes, yes. (<i>Montgomery rises gets letter from
+      mantel; hands it to Vining.</i>) There you are.
+    </p>
+    <p>
+      (<i>Up to Pilling, who turns to go.</i>)
+    </p>
+    <p>
+      One moment, Pilling, I want to ask you something. Can you tell me how
+      people in the town talk of the Polygon?
+    </p>
+    <p>
+      <b>Pilling</b>. How they talk, sir?
+    </p>
+    <p>
+      <b>Vin</b>. Yes. What's the general opinion of us? Pilling. It's not for the
+      likes of me to talk against the gentry.
+    </p>
+    <p>
+      <b>Walter</b>. They <i>do</i> talk against us, then?
+    </p>
+    <p>
+      <b>Pilling</b> (<i>awkwardly</i>). Well, sir&mdash;&mdash;- (<i>He pauses.</i>)
+    </p>
+    <p>
+      <b>Walter</b> (<i>helping him out</i>). Tell them how you live, Pilling.
+    </p>
+    <p>
+      <b>Pilling</b>. You can tell that as well as me.
+    </p>
+    <p>
+      <b>Vin</b>. (<i>impatiently</i>). Yes, yes, but that's not the point. Doesn't
+      your class feel what a privilege it is to have us living in your midst?
+    </p>
+    <p>
+      <b>Pilling</b> (<i>earnestly</i>). <i>I'd</i> be badly off without you, sir.
+    </p>
+    <p>
+      <b>Vin</b>. You'd be sorry to lose us, eh?
+    </p>
+    <p>
+      <b>Walter</b>. Of course <i>he</i> would. A gardener's no use if there's nothing
+      to garden. Only Carrington's not a garden city. It's a manufacturing town.
+    </p>
+    <p>
+      <b>Mont</b>. (<i>with back to fire, to Pilling</i>). Supposing now you weren't a
+      gardener?
+    </p>
+    <p>
+      <b>Vin</b>. Yes. What's the common view of us?
+    </p>
+    <p>
+      <b>Pilling</b>. Well, sir, it 'ud seem to me against nature if the town had no
+      quality in it.
+    </p>
+    <p>
+      <b>Vin</b>. (<i>turning triumphantly to Walter</i>). You see? (<i>Patronising
+      Pilling.</i>) You're perfectly right, Pilling. I've noticed it before. (<i>Talking
+      at the ladies.</i>) The masses always have this instinctive clinging to
+      their superiors. They know we're the source of all prosperity.
+    </p>
+    <p>
+      <b>Pilling</b> (<i>shyly</i>). There's queer talk, sometimes, sir. <i>I</i> know
+      gentlemen are different from us, but there's men in this town wanting to
+      tell me we're all born equal&mdash;asking your pardon, sir.
+    </p>
+    <p>
+      <b>Mrs. V</b>. You know better than that, Pilling.
+    </p>
+    <p>
+      <b>Pilling</b>. Yes, mum.
+    </p>
+    <p>
+      <b>Vin</b>. You could never get on without us.
+    </p>
+    <p>
+      <b>Pilling</b>. No, sir.
+    </p>
+    <p>
+      <b>Walter</b>. Be honest, man. No one's going to hurt you for it. Tell us the
+      truth, about the overcrowding and the waste of valuable space in the
+      Polygon.
+    </p>
+    <p>
+      <b>Mrs. V</b>. Yes. Tell us the truth, Pilling, and say you know how necessary we
+      are.
+    </p>
+    <p>
+      <b>Pilling</b>. You're bread and butter to me, mum, and I know it.
+    </p>
+    <p>
+      <b>Vin</b>. There you are, Walter.
+    </p>
+    <p>
+      <b>Walter</b> (<i>impatiently</i>). But he's an exception. He's
+    </p>
+    <p>
+      <b>Vin</b>. (<i>interrupting</i>). You've got the letter, Pilling.
+    </p>
+    <p>
+      <b>Pilling</b>. Yes, sir. (<i>Turning, then courageously.</i>) There's no denying
+      as the overcrowding's something cruel. I wouldn't say a word of it, not to
+      you, sir, if I didn't know and see and suffer it.
+    </p>
+    <p>
+      (<i>Montgomery sits again below fire.</i>)
+    </p>
+    <p>
+      <b>Vin</b>. That'll do, Pilling.
+    </p>
+    <p>
+      <b>Pilling</b>. Yes, sir. (<i>Turns to go.</i>)
+    </p>
+    <p>
+      <b>Walter</b> (<i>to Vining, crossing above sofa c.</i>). You heard that. Won't
+      you wait? Wait till Verity's been. You'll catch the same post.
+    </p>
+    <p>
+      <b>Vin</b>. (<i>pause</i>). Give me the letter, Pilling, I'll keep it back a
+      little.
+    </p>
+    <p>
+      <b>Pilling</b>. Yes, sir..
+    </p>
+    <p>
+      (<i>Exit Pilling, c.</i>)
+    </p>
+    <p>
+      <b>Walter</b>. Thank you, Mr. Vining.
+    </p>
+    <p>
+      (<i>Maid announces Mr. Verity. Maid withdraws Stephen is dressed as Act
+      II, and very sure of himself, except at odd moments.</i>)
+    </p>
+    <p>
+      <b>Vin</b>. (<i>patronisingly</i>). Ah, Mr. Verity. Pleased to see you. (<i>Advancing.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. (<i>up R. c., shaking hands; very formally</i>). How do you do?
+    </p>
+    <p>
+      <b>Vin</b>. You know us all, I think?
+    </p>
+    <p>
+      <b>Ste</b>. (<i>dryly</i>). By sight.
+    </p>
+    <p>
+      <b>Vin</b>. (<i>hurriedly</i>). Yes. Sit down, won't you? (<i>Sits above fire.</i>)
+    </p>
+    <p>
+      (<i>Stephen does so, uncomfortably, c. Walter stands R. end of settee.</i>)
+    </p>
+    <p>
+      Now come to business, Mr. Verity.
+    </p>
+    <p>
+      <b>Ste</b>. Yes?
+    </p>
+    <p>
+      <b>Vin</b>. What we want to see you about is this confounded rumour of the
+      Polygon's being up for sale for building lots. No doubt you've heard it?
+    </p>
+    <p>
+      <b>Ste</b>. I've heard tell of it.
+    </p>
+    <p>
+      <b>Vin</b>. Have you thought about it at all?
+    </p>
+    <p>
+      <b>Ste</b>. I've thought a lot.
+    </p>
+    <p>
+      <b>Mont</b>. Well, what do you think, Mr. Verity? Could anything be more absurd?
+    </p>
+    <p>
+      <b>Ste</b>. (<i>nodding his head towards Walter</i>). Ask him. He knows what I
+      think.
+    </p>
+    <p>
+      <b>Walter</b>. Mr. Verity's of my opinion, father. Vin. We don't want your
+      opinion, sir. You're full up with all sorts of idiotic modern
+      sentimentalism about the poor. It all comes of the Church meddling with
+      secular matters instead of minding its own business. Mr. Verity's a man of
+      sense.
+    </p>
+    <p>
+      <b>Ste</b>. Thank you; but I don't know that I can do anything.
+    </p>
+    <p>
+      <b>Mrs. M</b>. (<i>sweetly</i>). Oh, but I'm sure you can, Mr. Verity. You've
+      such influence in the town. You're a man of weight.
+    </p>
+    <p>
+      <b>Ste</b>. If I am, madam, what had the town to do with Sir Charles selling the
+      Polygon?
+    </p>
+    <p>
+      <b>Mont</b>. How can the town get on without the Polygon?
+    </p>
+    <p>
+      <b>Mrs. M</b>. I'm sure you, as an architect, Mr. Verity, must feel the
+      importance of preserving such fine examples as these are of old Georgian
+      mansions.
+    </p>
+    <p>
+      <b>Mrs. V</b>. So many links with the historic past.
+    </p>
+    <p>
+      <b>Vin</b>. (<i>impatiently</i>). It 'ud be a blue ruin for the town.
+    </p>
+    <p>
+      <b>Mont</b>. Sheer catastrophe. You're a leading personage here, Mr. Verity&mdash;alderman
+      and so on. Of course you have the interest of the town at heart.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>with faint irony</i>). As much as you have yourselves, I dare
+      say.
+    </p>
+    <p>
+      <b>Vin</b>. (<i>recovering first from the slight general embarrassment</i>). Er,
+      yes. Now, don't you think a petition from the Town Council to Sir Charles
+      might do the trick? You see, the Polygon's the backbone of the place. I
+      can't for the life of me imagine what Sir Charles is thinking of.
+    </p>
+    <p>
+      <b>Ste</b>. The price.
+    </p>
+    <p>
+      <b>Mrs. V</b>. Now, that's ungenerous of you, Mr. Verity. Sir Charles would never
+      be so selfish.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>stolidly</i>). Think not?
+    </p>
+    <p>
+      <b>Mrs. V</b>. He wouldn't turn us out for money. (<i>Vining and Montgomery are
+      not so sure.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. It's hard times for the rich.
+    </p>
+    <p>
+      <b>Mont</b>. (<i>timidly</i>). Yes, I suppose it is.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>with aggression</i>). It is. I know. I'm rich.
+    </p>
+    <p>
+      <b>Vin</b>. (<i>pompously</i>). I agree with you. We people of independent means
+      have been hard hit lately. What with the differential income tax and the
+      super tax, we&mdash;&mdash;
+    </p>
+    <p>
+      <b>Ste</b>. We all think we'd like to pay the super tax, don't we?
+    </p>
+    <p>
+      <b>Vin</b>. Er&mdash;yes&mdash;we can rely on your sending that petition then?
+    </p>
+    <p>
+      <b>Ste</b>. Can you?
+    </p>
+    <p>
+      <b>Mont</b>. I thought you said so.
+    </p>
+    <p>
+      <b>Ste</b>. I don't remember.
+    </p>
+    <p>
+      <b>Vin</b>. Dash it, Verity, we men of property must hang together. In a little
+      matter of this sort I'm sure you'll come in with us.
+    </p>
+    <p>
+      <b>Ste</b>. Yes? Well, I'm sorry to disoblige you.
+    </p>
+    <p>
+      <b>Mrs. M</b>. But surely as an architect&mdash;&mdash;
+    </p>
+    <p>
+      <b>Ste</b>. (<i>interrupting</i>). Now it's no use of you talking. I've said my
+      say.
+    </p>
+    <p>
+      <b>Mont</b>. But you must have some reason. This is really most extraordinary.
+    </p>
+    <p>
+      <b>Ste</b>. Is it? What's extraordinary in a man getting back a bit of his own?
+    </p>
+    <p>
+      <b>Vin</b>. Have we offended you, Mr. Verity? I'm very sorry. You speak as if you
+      had some grudge against us.
+    </p>
+    <p>
+      <b>Ste</b>. Grudge? I hate the sight of you if that's your meaning.
+    </p>
+    <p>
+      <b>Mont</b>, (<i>rising</i>). This is simply staggering. Why, Mr. Verity, we've
+      always been good neighbours, I hope.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>still sitting</i>). You've kept yourselves to yourselves, if
+      that's what you call being good neighbours. Who've you been good
+      neighbours to? The shopkeepers? You don't deal with them if you can help
+      it. London's your mark when you've money to spend, and that's not every
+      day of the week. How often have you got your hand down for a local
+      charity? Folks get sick and tired of coming to ask. You buttoned up your
+      pockets so tight.
+    </p>
+    <p>
+      <b>Vin</b>. Other people, at least, don't share your views, sir.
+    </p>
+    <p>
+      <b>Ste</b>. Ask 'em. (<i>Rising.</i>) You silly little set of genteel paupers,
+      who did you think you were? (<i>Ladies rise.</i>) We weren't good enough
+      for you. You lived in the Polygon; we lived in the town, and you held your
+      noses too high to see us if you met us, which wasn't often, because you
+      stuck inside your private preserve and didn't have truck with us vulgar
+      folk outside. We weren't your class. You patronising snobs, do you fancy I
+      can't see through your getting me here and soaping me to send your
+      petition from the town for you? The town can go to blazes for all you
+      care, so long as you're left alone in your nice big gardens.
+    </p>
+    <p>
+      <b>Vin</b>. (<i>rises and goes up to door R.</i>) Mr. Verity, I'm sorry to have
+      to remind you there are ladies present.
+    </p>
+    <p>
+      <b>Ste</b>. I can see 'em. That's why I'm letting you down so easy. I'd let it
+      rip if you'd the courage to turn 'em out and meet me man to man.
+    </p>
+    <p>
+      <b>Mrs. M</b>. (<i>moving towards door</i>). We'll go.
+    </p>
+    <p>
+      <b>Mont</b>, (<i>r., timidly</i>). I'd rather you didn't, my dear.
+    </p>
+    <p>
+      <b>Ste</b>. Yes. He'd rather you stayed, and kept a stopper on my tongue.
+    </p>
+    <p>
+      (<i>Vining opens door and signs to ladies to go.</i>)
+    </p>
+    <p>
+      <b>Walter</b> (<i>coming to r. of Verity</i>). No, mother. Mr. Verity, don't let
+      us lose our tempers about this. It's too important for petty feelings.
+    </p>
+    <p>
+      <b>Vin</b>. (<i>indignantly</i>). Petty feelings, indeed!
+    </p>
+    <p>
+      (<i>The ladies stand by door, irresolute.</i>)
+    </p>
+    <p>
+      <b>Walter</b> (<i>appealingly</i>). Oh, don't split hairs over words. The town's
+      crying for fresh air and health. The town wants to buy the Polygon.
+    </p>
+    <p>
+      <b>Mont</b>. The town does?
+    </p>
+    <p>
+      <b>Walter</b>. Yes, didn't you know?
+    </p>
+    <p>
+      <b>Vin</b>. (<i>looking at Stephen</i>). So it's the town?
+    </p>
+    <p>
+      <b>Walter</b> (<i>as Stephen doesn't answer</i>). Yes.
+    </p>
+    <p>
+      <b>Mrs. M</b>. (<i>up by door, r., dropping to Montgomery by fire</i>). Augustus,
+      don't you think, after all, we ought perhaps to&mdash;&mdash; (<i>Hesitating.</i>)
+    </p>
+    <p>
+      <b>Vin</b>. (<i>l. c. fiercely</i>). To what, Mrs. Montgomery?
+    </p>
+    <p>
+      <b>Mrs. M</b>. Well, I'm sure there's something in what Mr. Verity and Walter
+      say. (<i>Sits in armchair above fire.</i>)
+    </p>
+    <p>
+      <b>Mont</b>. Come, this is weakness, my dear.
+    </p>
+    <p>
+      <b>Vin</b>. No compromise, Mrs. Montgomery.
+    </p>
+    <p>
+      <b>Mrs. M</b>. I shall never feel at ease again when I think of the overcrowding
+      in the town.
+    </p>
+    <p>
+      <b>Vin</b>. Then don't think of it.
+    </p>
+    <p>
+      <b>Mrs. M</b>. I can't help thinking of it now.
+    </p>
+    <p>
+      <b>Mont</b>, (<i>to Walter</i>). Oh, dear, I do wish you'd kept your mouth
+      closed.
+    </p>
+    <p>
+      <b>Walter</b>. And my eyes closed, and my nose closed, and gone about Carrington
+      without looking at it. No, father, I meant to stir your conscience, and
+      I'm glad I've done it. (<i>Sits.</i>)
+    </p>
+    <p>
+      <b>Vin</b>. Well, I must admit&mdash;hang it, Verity, if people are crowded why
+      don't you build 'em houses? It's your trade.
+    </p>
+    <p>
+      <b>Ste</b>. No land.
+    </p>
+    <p>
+      (<i>About here Pilling appears c. with some garden stuff in his hand, and
+      Mrs. Vining exit with him for some consultation.</i>)
+    </p>
+    <p>
+      <b>Vin</b>. There's land enough outside. Why can't the town expand outwards? To
+      hear you talk about the Polygon the town might have a wall round it.
+    </p>
+    <p>
+      <b>Mont</b>. Yes, there's lots of moorland about the place.
+    </p>
+    <p>
+      <b>Ste</b>. Quite so. Lots of moor.
+    </p>
+    <p>
+      <b>Mont</b>. Well, then!
+    </p>
+    <p>
+      <b>Ste</b>. Shooting moor. Sir Charles' shooting moor.
+    </p>
+    <p>
+      <b>Vin</b>. Well, what difference do a few acres more or less make to a shooting
+      moor? Surely he'd rather sell you some of that.
+    </p>
+    <p>
+      <b>Ste</b>. Think so?
+    </p>
+    <p>
+      <b>Mont</b>. I'm certain of it.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>sitting on settee</i>). You're wrong, then. He's holding on for a
+      rise. He's held on to this till the value went up. Land here in the
+      centre's' worth more, than land outside. This is ripe. The other isn't.
+      That's why he'll sell this.
+    </p>
+    <p>
+      <b>Vin</b>. (<i>r. c.</i>). Well, if that's really so&mdash;&mdash;
+    </p>
+    <p>
+      <b>Ste</b>. (<i>grimly</i>). It's really so.
+    </p>
+    <p>
+      <b>Vin</b>. (<i>with-an air of finality</i>). All I can say is I shall most
+      certainly have to revise my opinion of Sir Charles. (<i>Crosses down L.</i>)
+    </p>
+    <p>
+      (<i>Pilling is visible through the window working a mowing machine in the
+      garden; he passes and repasses at intervals.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. Did you think your tin pot rents paid Sir Charles to let land like
+      this lie idle?
+    </p>
+    <p>
+      <b>Mont</b>. He likes to have us here. We're desirable tenants.
+    </p>
+    <p>
+      <b>Ste</b>. Pardon me. As a property owner I know. Desirable tenants are paying
+      tenants.
+    </p>
+    <p>
+      <b>Vin</b>. Do you insinuate that we don't pay?
+    </p>
+    <p>
+      <b>Ste</b>. You don't pay a profitable price. He can make a little gold, mine of
+      the Polygon. Land values in the town have been going up all the time. He's
+      cute enough to know it, or his agent is. The only question is, will our
+      price tempt him or is he able to be greedy and wait a bit longer till the
+      land's worth more.
+    </p>
+    <p>
+      <b>Mont</b>. And you mean to tell me we've been living on the edge of a volcano
+      all these years?
+    </p>
+    <p>
+      <b>Ste</b>. You've been living in Sir Charles' almshouses for decayed gentlefolk.
+      That's our name for it in the town.
+    </p>
+    <p>
+      <b>Vin</b>. Sir!
+    </p>
+    <p>
+      <b>Ste</b>. (<i>calmly</i>). It's the truth. What did it matter to him how little
+      he got out of you meantime? He knew very well it's a fortune waiting for
+      him whenever he wants it.
+    </p>
+    <p>
+      <b>Mont</b>. I'd no idea of this. (<i>Sits below fire.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. You know now. If you hadn't been so busy with thinking what nice
+      people you were and what nasty brutes lived outside you'd have found it
+      out for yourselves. Not one of you's on lease. You can all be turned out
+      at six months' notice.
+    </p>
+    <p>
+      <b>Vin</b>. We trusted to Sir Charles' sense of honour.
+    </p>
+    <p>
+      <b>Ste</b>. I wouldn't trust him with sixpence, and I'm a sound Tory at that.
+    </p>
+    <p>
+      <b>Vin</b>. I still think you're wrong, sir. You've given us your view. We're
+      much obliged. (<i>Sits l.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. (<i>sneering</i>). You'd be more obliged if I'd given you your
+      petition.
+    </p>
+    <p>
+      <b>Vin</b>. Your view was unexpected.
+    </p>
+    <p>
+      <b>Ste</b>. Was it? (<i>Turning to Walter.</i>) I thought he'd told you.
+    </p>
+    <p>
+      <b>Vin</b>. Unexpectedly strong.
+    </p>
+    <p>
+      <b>Ste</b>. You've not heard the half of it. You've been the bane of the town.
+      It's a working town and it does the working man no good to have the sight
+      of a lot of idle people living well and doing nothing for it. Breeds
+      discontent. Makes him ask questions. That's what you've been to us. A
+      public nuisance. Easy game for every agitator to have his shy at. Do you
+      think we employers loved you? They didn't mind us. They could see we
+      worked for our living. But you set of do-nothing wastrels&mdash;&mdash;
+    </p>
+    <p>
+      <b>Walter</b> (<i>c.</i>). Mr. Verity! (<i>Vining rises and goes up to back,
+      returns, then round to R. c.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. What's to do? You've been saying the same to them yourself, haven't
+      you?
+    </p>
+    <p>
+      <b>Walter</b>. I did my best to gild the pill.
+    </p>
+    <p>
+      <b>Ste</b>. Well, I'm not a parson. I haven't the gift of using big words for
+      little 'uns and talking sweetly about Hell.
+    </p>
+    <p>
+      <b>Vin</b>. (<i>dropping r. of Walter to below him</i>). Well, now look here, Mr.
+      Verity, you needn't suppose that I'm influenced in the slightest by your
+      extremely forcible language, but a possible compromise occurs to me.
+    </p>
+    <p>
+      <b>Ste</b>. Does it? I thought I heard you say just now "no compromise."
+    </p>
+    <p>
+      <b>Vin</b>. (<i>r. c.</i>). This is a compromise of my own suggesting, sir.
+    </p>
+    <p>
+      <b>Ste</b>. I'm not the compromising sort. Still, go ahead. What's your idea?
+    </p>
+    <p>
+      <b>Vin</b>. It's this, sir. I grant you we're drones, and I can see there's
+      something in what you say about the sight of a few idle people taking a
+      lot of room, though I take exception to the way you put it.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>drily</i>). Aye.
+    </p>
+    <p>
+      <b>Vin</b>. (<i>r. c.</i>). Now we've an affection for these houses of ours.
+    </p>
+    <p>
+      <b>Ste</b>. Of Sir Charles'.
+    </p>
+    <p>
+      <b>Vin</b>. Yes, of Sir Charles'. We're attached to the bricks and mortar. You
+      can understand it.
+    </p>
+    <p>
+      <b>Ste</b>. I never thought you'd shift willing.
+    </p>
+    <p>
+      <b>Vin</b>. Just so. We're not willing to shift. But my idea is this. We're all
+      old people, and our families have married off. There's no young blood in
+      the Polygon, except Walter here and my daughter, to use those tennis
+      courts and croquet lawns of ours. They're pleasant to walk about in and
+      it's a real sacrifice to part with them. But I propose writing to Sir
+      Charles suggesting that if (<i>crossing to l. c. and back; returns to l.
+      for end of speech</i>) he cares to sell you some building land outside the
+      town we will sacrifice our lawns for a park if he will leave our bricks
+      and mortar standing till&mdash;till we old fogies have done with them. How
+      does that strike you, Mr. Verity?
+    </p>
+    <p>
+      <b>Ste</b>. It strikes me your motto will do for me as Well as for you.
+    </p>
+    <p>
+      <b>Vin</b>. My motto?
+    </p>
+    <p>
+      <b>Ste</b>. No compromise, Mr. Vining.
+    </p>
+    <p>
+      <b>Walter</b>. Mr. Verity, surely it's a fair offer. It's generous. It's&mdash;&mdash;
+    </p>
+    <p>
+      <b>Ste</b>. Indeed! If that's your notion of generosity&mdash;&mdash;
+    </p>
+    <p>
+      <b>Vin</b>. It's my last word.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>rises</i>). Then I need stay no longer. (<i>Moves towards door.</i>)
+    </p>
+    <p>
+      <b>Walter</b> (<i>rises</i>). Oh, but&mdash;&mdash;
+    </p>
+    <p>
+      (<i>Maid announces, "Miss Verity." Enter Lucy. Exit Maid.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. You! What are you doing here?
+    </p>
+    <p>
+      <b>Lucy</b> (<i>crosses up r. c.</i>). I came to see Walter.
+    </p>
+    <p>
+      <b>Ste</b>. But&mdash;I locked you up.
+    </p>
+    <p>
+      <b>Lucy</b>. As you see, I've escaped.
+    </p>
+    <p>
+      <b>Walter</b>. Locked you up!
+    </p>
+    <p>
+      <b>Lucy</b>. Oh, yes. Father does things like that.
+    </p>
+    <p>
+      <b>Ste</b>. Come home, girl.
+    </p>
+    <p>
+      <b>Lucy</b>. Not yet. I'm a rebel to-day. You locked me up because I refused to
+      marry Mr. Bamford&mdash;&mdash;
+    </p>
+    <p>
+      <b>Walter</b>. What!
+    </p>
+    <p>
+      <b>Lucy</b>. And I've escaped to tell the truth about you and&mdash;&mdash;
+    </p>
+    <p>
+      <b>Ste</b>. Hold your tongue.
+    </p>
+    <p>
+      <b>Lucy</b>. No. I'm going to tell Walter all I know.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>sneering</i>). He's welcome to all <i>you</i> know.
+    </p>
+    <p>
+      <b>Lucy</b>. He's welcome to all I know and all I am.
+    </p>
+    <p>
+      <b>Mrs. M. Walter</b>, what does this mean? (<i>Rises.</i>)
+    </p>
+    <p>
+      <b>Vin</b>. I have never heard a more immodest speech.
+    </p>
+    <p>
+      <b>Walter</b>. Miss Verity and I are engaged.
+    </p>
+    <p>
+      <b>Ste</b>. You're not. You agreed last night that you weren't.
+    </p>
+    <p>
+      <b>Lucy</b>. That was before you had thrown me at Bamford's head. I'm engaged to
+      Walter, and I've things to tell him, things I've discovered about&mdash;&mdash;
+    </p>
+    <p>
+      <b>Ste</b>. Be quiet, will you.
+    </p>
+    <p>
+      <b>Lucy</b>. No. This is no time for concealment. We've got beyond all that.
+    </p>
+    <p>
+      <b>Ste</b>. You've nothing to conceal.
+    </p>
+    <p>
+      <b>Lucy</b>. Then why do you try to stop my mouth?
+    </p>
+    <p>
+      <b>Ste</b>. I don't. I'm here on business. I've no time for girls' foolishness.
+      Vining, can we go somewhere to draft that letter? (<i>Crosses down to
+      Vining.</i>)
+    </p>
+    <p>
+      <b>Vin</b>. Letter? What letter?
+    </p>
+    <p>
+      <b>Ste</b>. The compromise.
+    </p>
+    <p>
+      <b>Vin</b>. I thought you said&mdash;&mdash; (<i>Crossing slowly.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. Never mind what I said. Shall we go? Lucy. Yes, go, while I tell
+      Walter all I know. Ste. Tell him what you like now.
+    </p>
+    <p>
+      (<i>Exit Stephen with Vining.</i>)
+    </p>
+    <h3>
+      CURTAIN.
+    </h3>
+    <p>
+      <br /><br />
+    </p>
+    <hr />
+    <p>
+      <a name="link2H_4_0004" id="link2H_4_0004"> </a>
+    </p>
+    <div style="height: 4em;">
+      <br /><br /><br /><br />
+    </div>
+    <h2>
+      ACT IV.
+    </h2>
+    <p>
+      <i>Verity's dining-room as Act II a week later. Bamford and Stephen enter
+      from r. Stephen just pocketing his watch.</i>
+    </p>
+    <p>
+      <br /><br /><a name="linkimage-0006" id="linkimage-0006"> </a>
+    </p>
+    <div class="fig" style="width:50%;">
+      <img src="images/0092.jpg" alt="0092 " width="100%" /><br />
+    </div>
+    <h5>
+      <a href="images/0092.jpg"><img src="images/enlarge.jpg" alt="" /> </a>
+    </h5>
+    <p>
+      <b>Stephen</b>. You're a bit early for the meeting, Sam. (<i>Crosses to c. above
+      table.</i>)
+    </p>
+    <p>
+      <b>Bamford</b>. Yes; fact is, I wanted a word with you alone about that other
+      matter.
+    </p>
+    <p>
+      <b>Ste</b>. Lucy?
+    </p>
+    <p>
+      <b>Bam</b>. (<i>r. c.</i>). Aye. I'm a bit uneasy about it, Verity.
+    </p>
+    <p>
+      <b>Ste</b>. No need to be.
+    </p>
+    <p>
+      <b>Bam</b>. Well, I am.
+    </p>
+    <p>
+      <b>Ste</b>. Natural enough, I dare say. When a young man's fancy turns to
+      thoughts of love it churns up his inside a bit.
+    </p>
+    <p>
+      <b>Bam</b>. 'Tisn't that. I'm not a young man. (<i>Crosses l.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. You're young enough for all marriageable purposes.
+    </p>
+    <p>
+      <b>Bam</b>. I'm doubtful if I'm the right man to make that girl happy.
+    </p>
+    <p>
+      <b>Ste</b>. You're going to be Mayor, aren't you?
+    </p>
+    <p>
+      <b>Bam</b>. Yes.
+    </p>
+    <p>
+      <b>Ste</b>. And you promised her a carriage?
+    </p>
+    <p>
+      <b>Bam</b>. Yes.
+    </p>
+    <p>
+      <b>Ste</b>. And as much dressing as she's a mind to? Bam. Yes.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>sits above table</i>). Then what's troubling you? What else does
+      any female woman want?
+    </p>
+    <p>
+      <b>Bam</b>. (<i>sits l. of table</i>). Eh! I dunno! They're a grasping lot,
+      women..
+    </p>
+    <p>
+      <b>Ste</b>. Damn you, Sam, do you fancy my girl's not been well brought up?
+      You're as good as telling me she's not good enough for you.
+    </p>
+    <p>
+      <b>Bam</b>. Nay, I'm not; I'm only thinking I may not be good enough for her.
+    </p>
+    <p>
+      <b>Ste</b>. I'm best judge of that. The thing's settled. We said it once, you and
+      I, and we're not weathervanes.
+    </p>
+    <p>
+      <b>Bam</b>. (<i>resignedly</i>). Yes, I suppose it's settled.
+    </p>
+    <p>
+      <b>Ste</b>. That's all right, then.
+    </p>
+    <p>
+      (<i>Maid announces Mr. Smithson. Enter Smithson, Maid exit.</i>)
+    </p>
+    <p>
+      Ah, good evening, Smithson. (<i>Rises.</i>)
+    </p>
+    <p>
+      <b>Smiths</b>. Good evening, Verity. (<i>Shakes hands.</i>) Evening, Bamford.
+    </p>
+    <p>
+      <b>Bam</b>. Good evening.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>to Smithson</i>). Seen anything of Alcorn? Smiths. Yes. He's gone
+      round to the Post Office on his way here to see if a letter's been
+      forwarded from the London office.
+    </p>
+    <p>
+      <b>Ste</b>. Well, sit you down.
+    </p>
+    <p>
+      (<i>They sit at table. Stephen head, Smithson r. and Bamford l.</i>)
+    </p>
+    <p>
+      I've a bit of news for you gentlemen.
+    </p>
+    <p>
+      <b>Smiths</b>. Yes?
+    </p>
+    <p>
+      <b>Ste</b>. I've been paying a call&mdash;afternoon call on some friends of mine
+      in the Polygon.
+    </p>
+    <p>
+      <b>Bam</b>. What!
+    </p>
+    <p>
+      <b>Ste</b>. Take it easy, Sam. (<i>Chuckles.</i>) Aye, they wanted the Council to
+      petition Sir Charles not to sell. Tried to get me to do it for 'em.
+    </p>
+    <p>
+      <b>Smiths</b>. Good, that.
+    </p>
+    <p>
+      <b>Ste</b>. Well, we'd a little talk, Mr. Vining and I, and we come to a sort of
+      a compromise.
+    </p>
+    <p>
+      <b>Smiths</b>. Compromise?
+    </p>
+    <p>
+      <b>Bam</b>. Compromise! Verity? I don't like that word.
+    </p>
+    <p>
+      <b>Ste</b>. Finish was, they've written to Sir Charles asking him to sell the
+      town their grass plat&mdash;tennis courts and what-not&mdash;if he'll
+      leave their houses alone.
+    </p>
+    <p>
+      <b>Bam</b>. Verity, I don't like this. Ask me, it sounds like treachery to the
+      company.
+    </p>
+    <p>
+      <b>Ste</b>. Treachery be hanged. I drafted the letter myself.
+    </p>
+    <p>
+      <b>Bam</b>. That makes it worse.
+    </p>
+    <p>
+      <b>Ste</b>. Don't be stupid, Sam.
+    </p>
+    <p>
+      <b>Bam</b>. (<i>indignantly</i>). Stupid! I say, Verity&mdash;&mdash;
+    </p>
+    <p>
+      <b>Ste</b>. Put yourself in Sir Charles' place. He's got an offer, the company's
+      offer, cash down for the whole Polygon.
+    </p>
+    <p>
+      <b>Smiths</b>. Aye.
+    </p>
+    <p>
+      <b>Ste</b>. Well, say he has got a soft spot for his tenants there, old tenants,
+      doesn't want to turn them out, that sort of thing.
+    </p>
+    <p>
+      <b>Smiths</b>. Quite likely.
+    </p>
+    <p>
+      <b>Ste</b>. Then he gets their letter. Sees they're ready to lose their tennis
+      courts. All right, says he, if they're a slack back set of weaklings to
+      propose that of themselves, I shan't have any trouble in getting shut of
+      them altogether. Their rents aren't worth having. But the company's
+      offer's a sound ready cash affair. He's a bit short of the ready, isn't
+      he?
+    </p>
+    <p>
+      <b>Bam</b>. Aye. Above a bit.
+    </p>
+    <p>
+      <b>Ste</b>. So when he sees they'll shift without trouble, being weak enough to
+      offer a compromise before they're even asked for one, he'll take a flying
+      jump at our offer, and there you are. And a good afternoon's work I call
+      it.
+    </p>
+    <p>
+      <b>Bam</b>. Verity, I apologize. You're the dandiest schemer I ever saw, and I've
+      seen some warm members in my time.
+    </p>
+    <p>
+      <b>Ste</b>. Well, they sent for me. I didn't think this out. I just saw the
+      chance while I was there.
+    </p>
+    <p>
+      <b>Smiths</b>. You don't let much pass you, Verity.
+    </p>
+    <p>
+      <b>Ste</b>. I take my brains along when I go calling of an afternoon on my swell
+      friends. I'd like to bet that letter Alcorn's fetching says "Yes" to our
+      offer.
+    </p>
+    <p>
+      <b>Bam</b>. It's odds on, or I'd take you.
+    </p>
+    <p>
+      (<i>Maid announces Mr. Walter Montgomery. Enter Walter. Exit Maid.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. Hullo! Oh, damn!
+    </p>
+    <p>
+      <b>Walter</b> (<i>r. c.</i>). Good evening, Mr. Verity. Good evening. I hope I
+      don't interrupt business.
+    </p>
+    <p>
+      <b>Ste</b>. Young man, you appear to have a lot of time on your hands.
+    </p>
+    <p>
+      <b>Walter</b>. It's an important part of my business to visit my parishioners,
+      Mr. Verity.
+    </p>
+    <p>
+      <b>Ste</b>. Humph! Our turn for your parochial attentions soon comes round again.
+      You were here a week ago.
+    </p>
+    <p>
+      <b>Walter</b>. On my own business that time, sir.
+    </p>
+    <p>
+      <b>Ste</b>. What is it this time?
+    </p>
+    <p>
+      <b>Walter</b>. You're sure I'm not interrupting you?
+    </p>
+    <p>
+      <b>Ste</b>. I'm sure you are. Go on.
+    </p>
+    <p>
+      <b>Walter</b>. I've come to put you on your guard. You led me to suppose, and I
+      in turn told Mr. Vining, that the town authorities were proposing to buy
+      the Polygon.
+    </p>
+    <p>
+      <b>Ste</b>. And aren't they?
+    </p>
+    <p>
+      <b>Walter</b>. As an Alderman you ought to know that better than I do.
+    </p>
+    <p>
+      <b>Ste</b>. Never mind what I know. The question is, what do you know?
+    </p>
+    <p>
+      <b>Walter</b>. Oh, we fellows who go into the Church don't know much. You told me
+      yourself we go there because we're chicken-hearted fools without an ounce
+      of sense or fight in us.
+    </p>
+    <p>
+      <b>Bam</b>. Can't you make him cut the cackle, Verity?
+    </p>
+    <p>
+      <b>Walter</b>. Cackling's a professional failing, Mr. Bamford. We get the talking
+      habit in the pulpit.
+    </p>
+    <p>
+      <b>Bam</b>. You're not in the pulpit now.
+    </p>
+    <p>
+      <b>Walter</b>. No, sir. In the pulpit I'm in good company&mdash;my own.
+    </p>
+    <p>
+      <b>Bam</b>. What the&mdash;&mdash;
+    </p>
+    <p>
+      <b>Walter</b>. In this room I'm in the company of certain members of a rascally
+      syndicate who hope to buy the Polygon cheap from Sir Charles and sell dear
+      to the town when they've carefully engineered a public demand.
+    </p>
+    <p>
+      <b>Smiths</b>. Who told you?
+    </p>
+    <p>
+      <b>Ste</b>. Tch, Smithson! Where the devil did you raise this cock and bull
+      story?
+    </p>
+    <p>
+      <b>Walter</b>. Oh, I don't think it was the devil. On the <i>contrary</i>, in
+      fact, Mr. Verity.
+    </p>
+    <p>
+      <b>Ste</b>. Come to facts.
+    </p>
+    <p>
+      <b>Walter</b>. Facts? Shall I give you names? (<i>Strolls round back to
+      fireplace.</i>) I regret the absence of Mr. Alcorn and Miss Verity, but&mdash;well,
+      gentlemen, you're found out.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>pause</i>). And if we are? (<i>Rises.</i>)
+    </p>
+    <p>
+      <b>Smiths</b>, (<i>to Stephen</i>). And if we are, some one's blabbed.
+    </p>
+    <p>
+      <b>Bam</b>. (<i>to Stephen</i>). And you're the only one who pays afternoon calls
+      in the Polygon.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>bending over table, beneath his breath</i>). Fools! (<i>Aloud.</i>)
+      Do you think I foul my own nest?
+    </p>
+    <p>
+      <b>Bam</b>. Then if it isn't you, who is it? Tell me that.
+    </p>
+    <p>
+      (<i>Stephen looks first at Bamford, then Smithson, then suddenly moves to
+      door l. and calls.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. Lucy! Lucy! Come here! (<i>Returns above table.</i>)
+    </p>
+    <p>
+      <b>Bam</b>. That's the worst of having a woman in the thing. They will talk.
+    </p>
+    <p>
+      <b>Ste</b>. How could she talk? She knew nothing.
+    </p>
+    <p>
+      (<i>Lucy enters.</i>)
+    </p>
+    <p>
+      <b>Walter</b> (<i>l.</i>). Funny how things get about, isn't it?
+    </p>
+    <p>
+      <b>Lucy</b> (<i>up l.</i>). <i>Did</i> you call me, father?
+    </p>
+    <p>
+      <b>Ste</b>. (<i>to Walter, still ignoring Lucy</i>). Get about? How many have you
+      told?
+    </p>
+    <p>
+      <b>Walter</b>. Oh, I've told nobody. Secrets cease to be valuable when they're
+      told, and I don't mind telling you this secret's going to be a valuable
+      lever to me.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>to Lucy</i>). You've been talking to him.
+    </p>
+    <p>
+      <b>Lucy</b> (<i>up l.</i>). Yes. I told him all you told me.
+    </p>
+    <p>
+      <b>Ste</b>. I didn't tell you anything.
+    </p>
+    <p>
+      <b>Lucy</b>. Oh, yes. You and Mr. Bamford. (<i>Stephen turns on Bamford.</i>)
+    </p>
+    <p>
+      <b>Bam</b>. I? I never breathed.
+    </p>
+    <p>
+      <b>Lucy</b>. You squabbled together about the profits.
+    </p>
+    <p>
+      <b>Bam</b>. We <i>did</i> say something.
+    </p>
+    <p>
+      <b>Ste</b>. And you pieced it out from that?
+    </p>
+    <p>
+      <b>Lucy</b>. Yes.
+    </p>
+    <p>
+      <b>Bam</b>. Um! smart girl, Verity. Chip of the old block.
+    </p>
+    <p>
+      <b>Ste</b>. Bit too smart this time. I hope she'll never play <i>you</i> a trick
+      like that.
+    </p>
+    <p>
+      <b>Bam</b>. Yes, by Gad. I hadn't thought of that.
+    </p>
+    <p>
+      <b>Walter</b>. Well, gentlemen?
+    </p>
+    <p>
+      <b>Ste</b>. Oh, I'll attend to you. Look here, Sam&mdash;Smithson, I'll tackle
+      this chap. Just go into the other room there, will you? (<i>Pushes
+      Smithson to go below table.</i>) I've a private word for the parson.
+    </p>
+    <p>
+      <b>Bam</b>. Can I smoke there?
+    </p>
+    <p>
+      <b>Ste</b>. (<i>r. c.</i>). Aye.
+    </p>
+    <p>
+      (<i>Exeunt l., Bamford and Smithson. Walter before fireplace, Lucy c,
+      above table, Stephen r. of table.</i>)
+    </p>
+    <p>
+      Now, Mr. Montgomery, my lad, what sort of a trick do you call this to play
+      on your future father-in-law? You've a queer idea of tact, you have.
+    </p>
+    <p>
+      <b>Walter</b>. It wasn't my intention to be tactful, sir.
+    </p>
+    <p>
+      <b>Ste</b>. You're not improving your chances of marrying my daughter, you know.
+    </p>
+    <p>
+      <b>Walter</b>. How do you know I want to marry her?
+    </p>
+    <p>
+      <b>Lucy</b>. Walter!
+    </p>
+    <p>
+      <b>Ste</b>. Why, you told me so yourself, the other night.
+    </p>
+    <p>
+      (<i>Lucy sits in armchair l. above fire.</i>)
+    </p>
+    <p>
+      <b>Walter</b>. Since then, you see, I've made discoveries. If a man is known by
+      the company he keeps, the same applies to a woman. The woman I'm going to
+      marry doesn't, help to form a robbery syndicate along with Messieurs
+      Alcorn, Smithson and Bamford. So if you thought to buy my silence by
+      giving me your daughter, you made a bad mistake. No. Bamford's the man for
+      her. Partners in scoundrelism, partners in life.
+    </p>
+    <p>
+      (<i>Enter Bamford l. and crosses r. c.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. What do you want now?
+    </p>
+    <p>
+      <b>Bam</b>. (<i>apologetically, crossing r.</i>). All right. I only want my pipe.
+      Left it in my overcoat.
+    </p>
+    <p>
+      <b>Walter</b>. Mr. Bamford, I congratulate you. (<i>Holding out hand.</i>)
+    </p>
+    <p>
+      <b>Bam</b>. Eh? On what?
+    </p>
+    <p>
+      <b>Walter</b>, On being my successful rival for the hand of Miss Verity.
+    </p>
+    <p>
+      <b>Bam</b>. What's this? Was <i>he</i> the other you spoke of? (<i>To Stephen.</i>)
+    </p>
+    <p>
+      <b>Walter</b> (<i>to Lucy</i>). Don't be afraid.
+    </p>
+    <p>
+      <b>Ste</b>. Yes.
+    </p>
+    <p>
+      <b>Bam</b>. (<i>to Walter</i>). Who told you about me?
+    </p>
+    <p>
+      <b>Walter</b>. Oh, news soon gets round. (<i>Lightly.</i>)
+    </p>
+    <p>
+      <b>Bam</b>. (<i>r. c.</i>). Does it? Well, there's two sorts of news. Correct
+      news and incorrect news. Both sorts gets round, but incorrect news gets
+      round most. See what I mean?
+    </p>
+    <p>
+      <b>Ste</b>. (<i>sternly</i>). I don't.
+    </p>
+    <p>
+      <b>Bam</b>. (<i>to Stephen</i>). You will. (<i>To Walter.</i>) Look here, have
+      you given her up?
+    </p>
+    <p>
+      <b>Walter</b>. You wouldn't have me stand in your way, would you?
+    </p>
+    <p>
+      <b>Bam</b>. So you <i>have</i> given her up. Why?
+    </p>
+    <p>
+      <b>Walter</b>. Oh, I had my reasons.
+    </p>
+    <p>
+      <b>Bam</b>. Had you now? I'd like to hear those reasons.
+    </p>
+    <p>
+      <b>Walter</b>. That's not quite fair to the lady, I think.
+    </p>
+    <p>
+      <b>Ste</b>. No. He's out of it.
+    </p>
+    <p>
+      <b>Bam</b>. Is he? I take no man's leavings without I know why he left 'em.
+    </p>
+    <p>
+      <b>Walter</b>. It's all square, man. She's yours now.
+    </p>
+    <p>
+      <b>Bam</b>. I beg to differ.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>angrily</i>). What?
+    </p>
+    <p>
+      <b>Lucy</b> (<i>rises to go</i>). The goods needn't be on exhibition while the
+      sale proceeds.
+    </p>
+    <p>
+      (<i>Stephen points her angrily to chair l. She sits.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. Here, sit down. Now, Sam, what's it all about?
+    </p>
+    <p>
+      <b>Bam</b>. I'd as lief tell you when you're by yourself.
+    </p>
+    <p>
+      <b>Walter</b>. I thought so.
+    </p>
+    <p>
+      <b>Ste</b>. You can speak now. We're all concerned in this.
+    </p>
+    <p>
+      <b>Walter</b>. I beg your pardon. I've ceased to&mdash;&mdash;
+    </p>
+    <p>
+      <b>Ste</b>. (<i>his back to the right door</i>). Now, Sam?
+    </p>
+    <p>
+      <b>Walter</b> (<i>sitting below fire</i>). Oh, very well.
+    </p>
+    <p>
+      <b>Bam</b>. (<i>r. c., awkwardly</i>). Well, I've been thinking things over. The
+      married state and&mdash;well&mdash;&mdash;
+    </p>
+    <p>
+      (<i>Hesitating.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. (<i>grimly</i>). Yes, go on.
+    </p>
+    <p>
+      <b>Bam</b>. (<i>desperately</i>). It means giving up too much.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>c.</i>). And a good thing, too, Sam Bamford. How much longer do
+      you think you'll last at the pace you go? You're cracking up already&mdash;not
+      half the man you were.
+    </p>
+    <p>
+      <b>Lucy</b> (<i>icily</i>). Think how nice it would be to have me for a nurse. I
+      warm father's carpet slippers beautifully, don't I, and my gruel's a
+      dream.
+    </p>
+    <p>
+      <b>Bam</b>. There's many a long day between me and carpet slippers and gruel. I
+      like roving about, Verity, and that's a fact.
+    </p>
+    <p>
+      <b>Ste</b>. Didn't you think of that before?
+    </p>
+    <p>
+      <b>Bam</b>. I spoke hurried.
+    </p>
+    <p>
+      <b>Ste</b>. It's time you settled down. You won't lose much that a thousand a
+      year and home comforts don't match.
+    </p>
+    <p>
+      <b>Bam</b>. I'm rich enough.
+    </p>
+    <p>
+      <b>Ste</b>. You didn't talk like that on Tuesday.
+    </p>
+    <p>
+      <b>Bam</b>. (<i>irritably</i>). I tell you, I've thought things over. Fact is, I
+      didn't half like the way she answered you back. A man gets enough worries
+      in his working day. When he gets home he wants peace and no back answers.
+    </p>
+    <p>
+      <b>Ste</b>. She's all right now. It was having him asking (<i>indicating Walter</i>)
+      that made her proud. He's thrown her over&mdash;not good enough for him.
+    </p>
+    <p>
+      <b>Bam</b>. And she's not good enough for me, either. I can be a bit particular
+      myself. I like 'em quiet.
+    </p>
+    <p>
+      <b>Ste</b>. She's as quiet as they make 'em.
+    </p>
+    <p>
+      <b>Lucy</b>. Father, I absolutely and finally decline to marry Mr. Bamford.
+    </p>
+    <p>
+      <b>Bam</b>. I ask you, does that sound like a quiet life?
+    </p>
+    <p>
+      <b>Ste</b>. Well, damme, Sam Bamford, you can't get a thousand a year without
+      paying a tax on it.
+    </p>
+    <p>
+      <b>Bam</b>. You can pay too much tax if you get a woman thrown in with a razor
+      instead of a tongue.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>disgustedly</i>). I thought you were a man of your word.
+    </p>
+    <p>
+      <b>Bam</b>. And I thought you cracked to be a friend of mine.
+    </p>
+    <p>
+      <b>Ste</b>. I am your friend.
+    </p>
+    <p>
+      <b>Bam</b>. Perhaps; but as a rule when a man's as anxious as you are to sell an
+      article I begin to think there's something wrong with the goods.
+    </p>
+    <p>
+      <b>Ste</b>. Didn't I tell you on Tuesday I didn't want her to marry at all?
+    </p>
+    <p>
+      <b>Bam</b>. Didn't Sir Charles' agent write me he wouldn't want to sell? And you
+      know what you said about that.
+    </p>
+    <p>
+      <b>Ste</b>. But I'm not selling. I'm giving.
+    </p>
+    <p>
+      <b>Bam</b>. Yes, and nobody ever knew you to give away anything worth having.
+      What's he given her the chuck for, if it comes to that? He knows
+      something.
+    </p>
+    <p>
+      <b>Walter</b>. Yes. I know something, Mr. Bamford.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>raps table</i>). I'm not going to be played about with like this.
+      I never asked either of you to come after my daughter. You came because
+      you liked, but you'll not cry off when you like.
+    </p>
+    <p>
+      <b>Bam</b>. What do you mean now?
+    </p>
+    <p>
+      <b>Ste</b>. <i>One</i> of you's going to marry her.
+    </p>
+    <p>
+      <b>Bam</b>. It won't be me, then. I don't want any woman with a temper of her
+      own.
+    </p>
+    <p>
+      <b>Ste</b>. I tell you she hasn't got a temper.
+    </p>
+    <p>
+      <b>Lucy</b> (<i>rises</i>). I've got a tongue.
+    </p>
+    <p>
+      <b>Ste</b>. Be quiet.
+    </p>
+    <p>
+      <b>Lucy</b>. I won't be quiet while you wrangle over me like&mdash;&mdash;
+    </p>
+    <p>
+      <b>Ste</b>. (<i>thundering</i>). Go to your room. I'll tame you.
+    </p>
+    <p>
+      (<i>Lucy deliberately sits down.</i>)
+    </p>
+    <p>
+      <b>Bam</b>. There you are, Verity. Regular spitfire. Too late to send her away
+      now. I know what she is.
+    </p>
+    <p>
+      <b>Walter</b> (<i>rising</i>). So do I. She's a monstrous woman with an
+      abnormally developed bump of business capacity and I absolutely decline to
+      marry any member of a syndicate of avaricious thieves formed to swindle&mdash;&mdash;
+    </p>
+    <p>
+      <b>Ste</b>. (<i>interrupting</i>). She's no more business capacity than a flea
+      and I'll take her off the syndicate to-night, if that 'ull please you. Now
+      then, which of you is it to be?
+    </p>
+    <p>
+      <b>Bam</b>. I don't wish to quarrel with you, Verity. I've told you I'm taking
+      none.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>briskly</i>). All right. Then you marry young Montgomery, Lucy. (<i>Moves
+      L. above table.</i>)
+    </p>
+    <p>
+      <b>Lucy</b>. He says he won't have me while I'm in the Syndicate.
+    </p>
+    <p>
+      <b>Ste</b>. I'll get you out of that.
+    </p>
+    <p>
+      <b>Bam</b>. You can't do that, Verity. (<i>Moves to table R.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. Can't I? I will, though.
+    </p>
+    <p>
+      <b>Bam</b>. You'll upset the whole thing.
+    </p>
+    <p>
+      <b>Ste</b>. I'll look after that.
+    </p>
+    <p>
+      (<i>Maid announces Mr. Alcorn. Enter Alcorn; exit Maid r.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. Ah! Got the letter, Alcorn?
+    </p>
+    <p>
+      <b>Alcorn</b>. Yes. I don't understand it.
+    </p>
+    <p>
+      <b>Ste</b>. Just a moment. (<i>Opens door l. and calls.</i>) Smithson!
+    </p>
+    <p>
+      (<i>Enter Smithson.</i>)
+    </p>
+    <p>
+      <b>Walter</b>. I'd better go.
+    </p>
+    <p>
+      <b>Ste</b>. You've no need. You know so much about it you can stay and listen to
+      the rest. (<i>Gets chair.</i>)
+    </p>
+    <p>
+      (<i>Stephen sits at head of table. Bamford, Smithson, Alcorn sit as in Act
+      II. Lucy stands r., Walter sits below fire.</i>)
+    </p>
+    <p>
+      <b>Alcorn</b>. Well, gentlemen, he won't sell. (<i>Taking out letter.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. Refuses to sell? What does this mean?
+    </p>
+    <p>
+      <b>Smiths</b>, (<i>to Bamford</i>). And you assured us he was broke.
+    </p>
+    <p>
+      <b>Bam</b>. So he was, absolutely broke. I don't understand it at all. .
+    </p>
+    <p>
+      <b>Al</b>. No more do I. Listen to this. (<i>Reading letter.</i>) "I regret my
+      inability to entertain the offer made by your company. I have reason to
+      believe that owing to overcrowding the land is urgently wanted and that
+      the town authorities wish to deal with the matter themselves. I am having
+      the tennis lawns, etc., valued independently and the town may then
+      purchase at the valuation. I shall, however, not disturb my old tenants in
+      the Polygon, this letter referring only to the open space now used as
+      tennis lawns." Now what in thunder do you make of that?
+    </p>
+    <p>
+      <b>Ste</b>. (<i>looking at Walter</i>). You?
+    </p>
+    <p>
+      <b>Walter</b>. A letter to Monte Carlo only costs tuppence-halfpenny.
+    </p>
+    <p>
+      <b>Bam</b>. But hang it, Verity, the town isn't buying.
+    </p>
+    <p>
+      <b>Ste</b>. On the contrary, Sam, the town is. The overcrowding is a scandal. We
+      must have some fresh air.
+    </p>
+    <p>
+      <b>Smiths</b>. Oh, don't talk like a blooming philanthropist again.
+    </p>
+    <p>
+      <b>Ste</b>. I'm talking like a blooming alderman.
+    </p>
+    <p>
+      <b>Al</b>. This isn't a town's meeting. It's a company meeting. Stick to company
+      business.
+    </p>
+    <p>
+      <b>Ste</b>. The company has no further business. The company is wound up.
+    </p>
+    <p>
+      <b>Bam</b>. Damned if it is. This letter doesn't end all. It's your fault,
+      Verity. You shouldn't have gone to the Polygon. You over-reached yourself.
+    </p>
+    <p>
+      <b>Ste</b>. This would still have happened, Sam, in any case.
+    </p>
+    <p>
+      <b>Bam</b>. I don't see it. Why?
+    </p>
+    <p>
+      <b>Ste</b>. Mr. Montgomery can tell you.
+    </p>
+    <p>
+      <b>Bam</b>. Well, it's not all up. Let's have what he offers.
+    </p>
+    <p>
+      <b>Ste</b>. He doesn't offer us anything. He offers it to the town.
+    </p>
+    <p>
+      <b>Al</b>. And the town must buy.
+    </p>
+    <p>
+      <b>Ste</b>. The town shall buy.
+    </p>
+    <p>
+      <b>Bam</b>. Yes; well I said houses. Let's make it houses. Model dwellings as
+      ugly as hell, for the Polygon toffs to look at every time they poke their
+      noses out of doors.
+    </p>
+    <p>
+      <b>Ste</b>. Don't be spiteful, Sam. We've had a licking, but don't bear malice.
+    </p>
+    <p>
+      <b>Walter</b>. Thank you, Mr. Verity.
+    </p>
+    <p>
+      <b>Ste</b>. Oh, I'd forgotten you were there. Oblige me by going into that room
+      for two minutes. You can wait in there till we're through.
+    </p>
+    <p>
+      <b>Walter</b>. But what have I to wait for? (<i>Rises.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. Sorry to occupy your valuable, time, but you're going to wait. You'll
+      find a fire.
+    </p>
+    <p>
+      (<i>Exit Walter l.</i>)
+    </p>
+    <p>
+      That chap's wasted as a curate. (<i>Sits.</i>) He's beaten me! Me licked
+      by a bricking curate!
+    </p>
+    <p>
+      <b>Al</b>. But I don't understand.
+    </p>
+    <p>
+      <b>Ste</b>. Oh, he got hold of our company idea, told Sir Charles and smashed our
+      plans. That's all. Nothing very serious. We're out of pocket for a few
+      expenses that won't hurt any of us, and we've missed a good piece of
+      plunder. Well, the thing to do now is to turn round and do the handsome
+      over that recreation ground. <i>Our</i> idea for the benefit of the town!
+      <i>My</i> negotiations with the Polygon! If we can't get cash by it,
+      gentlemen, let us get credit.
+    </p>
+    <p>
+      <b>Smiths</b>.. And what about the rates?
+    </p>
+    <p>
+      <b>Ste</b>. Well, what about them? More fresh air, less ill health. Less ill
+      health, less poverty. Less poverty, fewer paupers. That recreation ground
+      'ull pay for itself in less than no time. If there's going to be any
+      barging about the rates we'll raise the money by subscription, and for two
+      pins I'll head the list myself.
+    </p>
+    <p>
+      <b>Al</b>. It's a queer finish to our plans.
+    </p>
+    <p>
+      <b>Ste</b>. It is a finish, Alcorn. We're knocked out, and we've got to take it
+      with a big, broad smile and nobody will even so much as guess we've meant
+      anything but the square thing all the time.
+    </p>
+    <p>
+      <b>Bam</b>. That curate 'ull talk. Curates are always talking.
+    </p>
+    <p>
+      <b>Ste</b>. No, he won't.
+    </p>
+    <p>
+      <b>Bam</b>. You can't stop an old woman gossiping. Gab's a parson's
+      stock-in-trade.
+    </p>
+    <p>
+      <b>Ste</b>. He's no old woman. He's a wide-awake young man and he's going to
+      marry my daughter&mdash;if she's free. That'll shut his mouth for him.
+    </p>
+    <p>
+      <b>Smiths</b>. Well, we'll leave that to you, Verity.
+    </p>
+    <p>
+      <b>Ste</b>. You can, safely.
+    </p>
+    <p>
+      <b>Al</b>. It's been a lot of trouble all for nothing.
+    </p>
+    <p>
+      (<i>Rises; general rise.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. Well, we're good sportsmen, I hope, and the Carrington recreation
+      ground 'ull be an everlasting monument to our civic enterprise and public
+      spirit.
+    </p>
+    <p>
+      <b>Al</b>. Aye, I'm beginning to feel good already.
+    </p>
+    <p>
+      <b>Smiths</b>. It's a disappointment, Verity. Ah, well, we can't win every time.
+    </p>
+    <p>
+      <b>Ste</b>. No. Better luck next time. Good night, Smithson. (<i>Takes chair up
+      stage.</i>)
+    </p>
+    <p>
+      <b>Smiths</b>. Good night. Good night all.
+    </p>
+    <p>
+      <b>Al</b>. I'm coming your way.
+    </p>
+    <p>
+      <b>Smiths</b>. Come along then. (<i>Crosses r.</i>)
+    </p>
+    <p>
+      <b>Al</b>. Good night.
+    </p>
+    <p>
+      (<i>Exeunt Smithson and Alcorn, r.</i>)
+    </p>
+    <p>
+      <b>Bam</b>. I'm glad they've gone. Something to put to you, Verity, private.
+    </p>
+    <p>
+      <b>Ste</b>. About her?
+    </p>
+    <p>
+      <b>Bam</b>. Her? No. I've said my say about that, and you need her to shut the
+      curate's mouth.
+    </p>
+    <p>
+      <b>Ste</b>. I'll shut his mouth without that if you want her. It's a thousand a
+      year, you know.
+    </p>
+    <p>
+      <b>Lucy</b>. The auction recommences, Mr. Bamford.
+    </p>
+    <p>
+      <b>Bam</b>. Don't fret yourself, Miss Verity. I'm not bidding. You've had my last
+      word, Verity.
+    </p>
+    <p>
+      <b>Ste</b>. Well, what's this you want to say?
+    </p>
+    <p>
+      <b>Bam</b>. About me being mayor. That stands, of course?
+    </p>
+    <p>
+      <b>Ste</b>. No, it doesn't. (<i>Above table.</i>)
+    </p>
+    <p>
+      <b>Bam</b>. But&mdash;&mdash;
+    </p>
+    <p>
+      <b>Ste</b>. That was a contract made by a company that's wound up.
+    </p>
+    <p>
+      <b>Bam</b>. But, hang it, I'd counted on being mayor. I've mentioned it to one or
+      two. (<i>Goes above table R.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. All right, then. There's your mayoress.
+    </p>
+    <p>
+      <b>Bam</b>. Is that the price?
+    </p>
+    <p>
+      <b>Ste</b>. There's your mayoress.
+    </p>
+    <p>
+      <b>Lucy</b>. I won't be haggled over.
+    </p>
+    <p>
+      <b>Bam</b>. Miss Verity, it's not you. If I wanted to marry I dunno as I'd look
+      an inch further. It's&mdash;I'm not the marrying sort and that's top and
+      bottom of it.
+    </p>
+    <p>
+      <b>Ste</b>. Sam, I'll be mayor myself if it's only for the fun of opening that
+      recreation ground to the public and making a speech about the anxious
+      negotiating the Council had to do before they brought off this great
+      scheme and conferred an inestimable boon on the deserving working classes.
+    </p>
+    <p>
+      <b>Bam</b>. Oh, if you're putting up for mayor, I retire. I can't fight a man of
+      your weight.
+    </p>
+    <p>
+      <b>Ste</b>. Fight be hanged. We're good friends.
+    </p>
+    <p>
+      <b>Bam</b>. Aye. You've got your man in there.
+    </p>
+    <p>
+      <b>Ste</b>. Well! (<i>Pause.</i>) Yes.
+    </p>
+    <p>
+      <b>Lucy</b>. It's very sweet of you not to want to marry me, Mr. Bamford.
+    </p>
+    <p>
+      <b>Bam</b>. Ask me to the wedding.
+    </p>
+    <p>
+      <b>Ste</b>. Yes, you should be good for a thumping present after this.
+    </p>
+    <p>
+      <b>Bam</b>. I'll stand my corner. You've to tackle the curate. I'll be off.
+    </p>
+    <p>
+      <b>Ste</b>. Good night.
+    </p>
+    <p>
+      <b>Lucy</b>. Good night, and thank you.
+    </p>
+    <p>
+      <b>Bam</b>. It's <i>me</i> that's thankful. Good night.
+    </p>
+    <p>
+      (<i>Exit Bamford. Stephen crosses to left door, opens it and calls.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. Now, Mr. Montgomery.
+    </p>
+    <p>
+      (<i>Enter Walter. Lucy rises, l.</i>)
+    </p>
+    <p>
+      <b>Walter</b>. Well, sir? (<i>Crosses to r. below table.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. (<i>c. above table</i>). Are you or are you not going to marry my
+      daughter?
+    </p>
+    <p>
+      <b>Walter</b>. That depends.
+    </p>
+    <p>
+      <b>Ste</b>. I'll tell you something. The syndicate's bust. In fact, there never
+      was a syndicate.
+    </p>
+    <p>
+      <b>Walter</b>. You mustn't ask me to believe that, sir. You gave the thing away
+      yourself.
+    </p>
+    <p>
+      <b>Ste</b>. (<i>impressively</i>). There never was a syndicate. A limited company
+      isn't a limited company till it's registered. We weren't registered. You
+      understand? You can't go telling people about a syndicate that never
+      existed.
+    </p>
+    <p>
+      <b>Walter</b> (<i>smiling</i>). That sounds reasonable. I shan't tell.
+    </p>
+    <p>
+      <b>Ste</b>. Yes. Well, what about my daughter?
+    </p>
+    <p>
+      <b>Walter</b>. I thought you objected to me.
+    </p>
+    <p>
+      <b>Ste</b>. I did. But I begin to think there's more in you than meets the eye.
+    </p>
+    <p>
+      <b>Walter</b>. Thanks for the compliment.
+    </p>
+    <p>
+      <b>Ste</b>. I do wish you weren't a curate, though.
+    </p>
+    <p>
+      (<i>Crosses to fire.</i>) There's nothing in the Church for a smart man.
+    </p>
+    <p>
+      <b>Walter</b>. There are plenty of prizes in the Church.
+    </p>
+    <p>
+      <b>Lucy</b>. And Walter's going to win them, father. (<i>Up to Walter.</i>)
+    </p>
+    <p>
+      <b>Walter</b>. Yes.
+    </p>
+    <p>
+      <b>Ste</b>. He's not won much yet.
+    </p>
+    <p>
+      <b>Walter</b>. This is all the prize I want, Mr. Verity. (<i>Takes her hand.</i>)
+    </p>
+    <p>
+      <b>Ste</b>. She's not a bad start, either. You've got round me, and it takes a
+      bit of doing. (<i>Crosses to Walter.</i>) Look here, my lad, I come of a
+      long lived stock and you'll disappoint me if I don't see you a bishop
+      before I die. I'll come to the Palace, Lucy, and hang my hat up some day.
+      (<i>Going to exit to leave them together.</i>)
+    </p>
+    <h3>
+      CURTAIN.
+    </h3>
+    <div style="height: 6em;">
+      <br /><br /><br /><br /><br /><br />
+    </div>
+
+
+
+
+
+
+
+<pre>
+
+
+
+
+
+End of the Project Gutenberg EBook of Graft, by Harold Brighouse
+
+*** END OF THIS PROJECT GUTENBERG EBOOK GRAFT ***
+
+***** This file should be named 55291-h.htm or 55291-h.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/5/2/9/55291/
+
+Produced by David Widger from page images generously
+provided by the Internet Archive
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
+
+</pre>
+
+  </body>
+</html>
